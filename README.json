@@ -1,0 +1,96 @@
+{
+  "items": [
+    {
+      "description": "https://study.163.com/provider/480000001914454/index.htm",
+      "items": [],
+      "title": "网易云课堂·光谷码农课堂"
+    },
+    {
+      "description": "公众号底部菜单扫码加入微信群",
+      "items": [],
+      "title": "关注微信公众号(光谷码农/guanggu-coder)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "C/C++面向WebAssembly编程",
+          "description": "开源图书, 已完稿",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-04-17T14:37:31Z",
+            "owner": "3dgen",
+            "repo": "cppwasm-book",
+            "stars": 1400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebAssembly friendly programming with C/C++",
+          "description": "英文",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-04-17T14:37:31Z",
+            "owner": "3dgen",
+            "repo": "cppwasm-book",
+            "stars": 1400
+          }
+        }
+      ],
+      "title": "WebAssembly图书"
+    },
+    {
+      "description": "C/C++",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/AndrewScheidecker/WAVM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-05T13:08:49Z",
+            "owner": "WAVM",
+            "repo": "WAVM",
+            "stars": 2773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/LuisHsu/WasmVM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-09-02T17:14:14Z",
+            "owner": "LuisHsu",
+            "repo": "WasmVM",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/rianhunter/wasmjit",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "开源实现(虚拟机 & 编译器 & 工具链)"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:22:53.458Z",
+    "original_repository": "wasmlang/awesome-wasm-zh",
+    "original_repository_sha": "e52c6ee31404b85c98f1303e4ce3911ff8600aaf",
+    "enhanced_repository": "enhansome/enhansome-wasm-zh",
+    "enhanced_repository_description": null,
+    "title": "Awesome WebAssembly资料精选 - 中文版 with stars"
+  }
+}

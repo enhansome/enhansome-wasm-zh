@@ -1,6 +1,6 @@
 # Awesome WebAssembly资料精选 - 中文版 with stars
 
-* *凹语言™: <https://github.com/wa-lang/wa> ⭐ 1,768 | 🐛 6 | 🌐 Go | 📅 2026-04-30*
+* *凹语言™: <https://github.com/wa-lang/wa> ⭐ 1,767 | 🐛 6 | 🌐 Go | 📅 2026-04-30*
 
 ***
 
@@ -92,10 +92,10 @@
 
 **Go**
 
-* <https://github.com/perlin-network/life> ⭐ 1,690 | 🐛 36 | 🌐 Go | 📅 2022-03-30
+* <https://github.com/perlin-network/life> ⭐ 1,689 | 🐛 36 | 🌐 Go | 📅 2022-03-30
 * <http://github.com/go-interpreter/wagon> ⚠️ Archived
 * <https://github.com/tsavola/wag> ⭐ 192 | 🐛 3 | 🌐 Go | 📅 2025-10-15
-* <https://github.com/akupila/go-wasm> ⭐ 133 | 🐛 5 | 🌐 Go | 📅 2021-10-30
+* <https://github.com/akupila/go-wasm> ⭐ 132 | 🐛 5 | 🌐 Go | 📅 2021-10-30
 
 ***
 
@@ -117,7 +117,7 @@
 
 **Go**
 
-* <https://github.com/golang/go/wiki/WebAssembly> ⭐ 135,739 | 🐛 10,224 | 🌐 Go | 📅 2026-08-13
+* <https://github.com/golang/go/wiki/WebAssembly> ⭐ 135,743 | 🐛 10,229 | 🌐 Go | 📅 2026-08-13
 * <https://github.com/dave/wasmgo> ⭐ 145 | 🐛 4 | 🌐 Go | 📅 2023-03-07
 * [Getting started into Go and WebAssembly](https://medium.com/@sendilkumarn/getting-started-into-go-and-webassembly-8491b133a616)
 * <https://tip.golang.org/pkg/syscall/js/>

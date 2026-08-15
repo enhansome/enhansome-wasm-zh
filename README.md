@@ -33,7 +33,7 @@
 
 ## 其它awesome
 
-* <https://github.com/mbasso/awesome-wasm> ⭐ 9,616 | 🐛 89 | 📅 2024-11-15
+* <https://github.com/mbasso/awesome-wasm> ⭐ 9,617 | 🐛 89 | 📅 2024-11-15
 
 ***
 
@@ -42,7 +42,7 @@
 1. <https://webassembly.org>
 2. <https://www.w3.org/TR/wasm-core-1>
 3. <https://www.w3.org/TR/wasm-js-api-1>
-4. <https://github.com/WebAssembly/spec/issues> ⭐ 3,437 | 🐛 95 | 🌐 WebAssembly | 📅 2026-08-12
+4. <https://github.com/WebAssembly/spec/issues> ⭐ 3,438 | 🐛 95 | 🌐 WebAssembly | 📅 2026-08-12
 5. <https://kripken.github.io/emscripten-site/index.html>
 6. <https://developer.mozilla.org/en-US/docs/WebAssembly>
 
@@ -107,7 +107,7 @@
 
 **AssemblyScript**
 
-* <https://github.com/AssemblyScript/assemblyscript> ⭐ 17,990 | 🐛 199 | 🌐 WebAssembly | 📅 2026-07-22
+* <https://github.com/AssemblyScript/assemblyscript> ⭐ 17,991 | 🐛 199 | 🌐 WebAssembly | 📅 2026-07-22
 
 **C/C++/D**
 
@@ -117,14 +117,14 @@
 
 **Go**
 
-* <https://github.com/golang/go/wiki/WebAssembly> ⭐ 135,765 | 🐛 10,226 | 🌐 Go | 📅 2026-08-14
+* <https://github.com/golang/go/wiki/WebAssembly> ⭐ 135,770 | 🐛 10,224 | 🌐 Go | 📅 2026-08-15
 * <https://github.com/dave/wasmgo> ⭐ 145 | 🐛 4 | 🌐 Go | 📅 2023-03-07
 * [Getting started into Go and WebAssembly](https://medium.com/@sendilkumarn/getting-started-into-go-and-webassembly-8491b133a616)
 * <https://tip.golang.org/pkg/syscall/js/>
 
 **Java & Kotlin**
 
-* <https://github.com/konsoletyper/teavm> ⭐ 3,087 | 🐛 190 | 🌐 Java | 📅 2026-07-28
+* <https://github.com/konsoletyper/teavm> ⭐ 3,086 | 🐛 195 | 🌐 Java | 📅 2026-07-28
 * <https://github.com/i-net-software/JWebAssembly> ⭐ 1,051 | 🐛 22 | 🌐 Java | 📅 2026-08-09
 * <https://superkotlin.com/kotlin-and-webassembly/>
 
@@ -184,4 +184,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

@@ -1,17 +1,7 @@
 {
   "items": [
     {
-      "description": "https://study.163.com/provider/480000001914454/index.htm",
-      "items": [],
-      "title": "网易云课堂·光谷码农课堂"
-    },
-    {
-      "description": "公众号底部菜单扫码加入微信群",
-      "items": [],
-      "title": "关注微信公众号(光谷码农/guanggu-coder)"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -20,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150200518,
             "language": "C++",
             "last_commit": "2024-04-17T14:37:31Z",
             "owner": "3dgen",
@@ -34,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150200518,
             "language": "C++",
             "last_commit": "2024-04-17T14:37:31Z",
             "owner": "3dgen",
@@ -45,7 +37,7 @@
       "title": "WebAssembly图书"
     },
     {
-      "description": "C/C++",
+      "description": "C/C++\nGo",
       "items": [
         {
           "node_type": "item",
@@ -54,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41151921,
             "language": "C++",
             "last_commit": "2026-04-05T13:08:49Z",
             "owner": "WAVM",
@@ -68,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156505792,
             "language": "C++",
             "last_commit": "2019-09-02T17:14:14Z",
             "owner": "LuisHsu",
@@ -77,17 +71,138 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/rianhunter/wasmjit",
+          "title": "https://github.com/perlin-network/life",
           "description": null,
-          "children": []
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 141270618,
+            "language": "Go",
+            "last_commit": "2022-03-30T17:36:24Z",
+            "owner": "perlin-network",
+            "repo": "life",
+            "stars": 1689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "http://github.com/go-interpreter/wagon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 80837772,
+            "language": "Go",
+            "last_commit": "2020-05-11T08:02:55Z",
+            "owner": "go-interpreter",
+            "repo": "wagon",
+            "stars": 899
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/tsavola/wag",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46967758,
+            "language": "Go",
+            "last_commit": "2025-10-15T02:43:33Z",
+            "owner": "gate-computer",
+            "repo": "wag",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/akupila/go-wasm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 142137057,
+            "language": "Go",
+            "last_commit": "2021-10-30T16:01:06Z",
+            "owner": "akupila",
+            "repo": "go-wasm",
+            "stars": 132
+          }
         }
       ],
       "title": "开源实现(虚拟机 & 编译器 & 工具链)"
+    },
+    {
+      "description": ".Net\nAssemblyScript\nC/C++/D\nGo\nJava & Kotlin\nRust\nMore",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/golang/go/wiki/WebAssembly",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23096959,
+            "language": "Go",
+            "last_commit": "2026-08-19T00:24:25Z",
+            "owner": "golang",
+            "repo": "go",
+            "stars": 135903
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/dave/wasmgo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 144758081,
+            "language": "Go",
+            "last_commit": "2023-03-07T00:43:48Z",
+            "owner": "dave",
+            "repo": "wasmgo",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/konsoletyper/teavm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13045763,
+            "language": "Java",
+            "last_commit": "2026-07-28T16:27:02Z",
+            "owner": "konsoletyper",
+            "repo": "teavm",
+            "stars": 3090
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/i-net-software/JWebAssembly",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 85615363,
+            "language": "Java",
+            "last_commit": "2026-08-17T18:54:13Z",
+            "owner": "i-net-software",
+            "repo": "JWebAssembly",
+            "stars": 1051
+          }
+        }
+      ],
+      "title": "编程语言"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:05:15.412Z",
+    "last_updated": "2026-08-19T12:57:44.940Z",
     "original_repository": "wasmlang/awesome-wasm-zh",
+    "original_repository_id": 143668970,
     "original_repository_sha": "e52c6ee31404b85c98f1303e4ce3911ff8600aaf",
     "enhanced_repository": "enhansome/enhansome-wasm-zh",
     "enhanced_repository_description": null,

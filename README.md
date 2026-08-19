@@ -124,7 +124,7 @@
 
 **Java & Kotlin**
 
-* <https://github.com/konsoletyper/teavm> ⭐ 3,090 | 🐛 195 | 🌐 Java | 📅 2026-07-28
+* <https://github.com/konsoletyper/teavm> ⭐ 3,091 | 🐛 195 | 🌐 Java | 📅 2026-07-28
 * <https://github.com/i-net-software/JWebAssembly> ⭐ 1,051 | 🐛 22 | 🌐 Java | 📅 2026-08-17
 * <https://superkotlin.com/kotlin-and-webassembly/>
 

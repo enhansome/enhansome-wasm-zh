@@ -144,10 +144,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-19T00:24:25Z",
+            "last_commit": "2026-08-20T11:05:12Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 135903
+            "stars": 135920
           }
         },
         {
@@ -200,7 +200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:06:19.391Z",
+    "last_updated": "2026-08-20T13:08:59.444Z",
     "original_repository": "wasmlang/awesome-wasm-zh",
     "original_repository_id": 143668970,
     "original_repository_sha": "e52c6ee31404b85c98f1303e4ce3911ff8600aaf",

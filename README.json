@@ -144,10 +144,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-20T11:05:12Z",
+            "last_commit": "2026-08-21T09:53:29Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 135920
+            "stars": 136042
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-07-28T16:27:02Z",
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3091
+            "stars": 3090
           }
         },
         {
@@ -200,7 +200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T13:08:59.444Z",
+    "last_updated": "2026-08-21T13:07:53.532Z",
     "original_repository": "wasmlang/awesome-wasm-zh",
     "original_repository_id": 143668970,
     "original_repository_sha": "e52c6ee31404b85c98f1303e4ce3911ff8600aaf",

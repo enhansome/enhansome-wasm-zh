@@ -96,7 +96,7 @@
             "last_commit": "2020-05-11T08:02:55Z",
             "owner": "go-interpreter",
             "repo": "wagon",
-            "stars": 899
+            "stars": 898
           }
         },
         {
@@ -144,10 +144,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-21T09:53:29Z",
+            "last_commit": "2026-08-22T01:56:30Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136042
+            "stars": 136142
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-07-28T16:27:02Z",
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3090
+            "stars": 3092
           }
         },
         {
@@ -200,7 +200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T13:07:53.532Z",
+    "last_updated": "2026-08-22T12:58:06.499Z",
     "original_repository": "wasmlang/awesome-wasm-zh",
     "original_repository_id": 143668970,
     "original_repository_sha": "e52c6ee31404b85c98f1303e4ce3911ff8600aaf",

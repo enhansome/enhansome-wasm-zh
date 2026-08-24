@@ -39,10 +39,10 @@
 
 ## 官方参考
 
-1. <https://webassembly.org>
-2. <https://www.w3.org/TR/wasm-core-1>
-3. <https://www.w3.org/TR/wasm-js-api-1>
-4. <https://github.com/WebAssembly/spec/issues> ⭐ 3,439 | 🐛 100 | 🌐 WebAssembly | 📅 2026-08-12
+1. <https://github.com/WebAssembly/spec/issues> ⭐ 3,440 | 🐛 100 | 🌐 WebAssembly | 📅 2026-08-12
+2. <https://webassembly.org>
+3. <https://www.w3.org/TR/wasm-core-1>
+4. <https://www.w3.org/TR/wasm-js-api-1>
 5. <https://kripken.github.io/emscripten-site/index.html>
 6. <https://developer.mozilla.org/en-US/docs/WebAssembly>
 
@@ -117,7 +117,7 @@
 
 **Go**
 
-* <https://github.com/golang/go/wiki/WebAssembly> ⭐ 136,205 | 🐛 10,128 | 🌐 Go | 📅 2026-08-24
+* <https://github.com/golang/go/wiki/WebAssembly> ⭐ 136,203 | 🐛 10,129 | 🌐 Go | 📅 2026-08-24
 * <https://github.com/dave/wasmgo> ⭐ 145 | 🐛 4 | 🌐 Go | 📅 2023-03-07
 * [Getting started into Go and WebAssembly](https://medium.com/@sendilkumarn/getting-started-into-go-and-webassembly-8491b133a616)
 * <https://tip.golang.org/pkg/syscall/js/>
@@ -130,8 +130,8 @@
 
 **Rust**
 
-* <https://github.com/rustwasm>
 * <https://github.com/rustwasm/book> ⚠️ Archived
+* <https://github.com/rustwasm>
 * [Making WebAssembly better for Rust & for all languages](https://hacks.mozilla.org/2018/03/making-webassembly-better-for-rust-for-all-languages/)
 
 **More**
@@ -155,6 +155,7 @@
 
 ## 技术文章
 
+* [Haxe, WebAssembly, TypeScript, Dart performance benchmark](https://github.com/damoebius/HaxeBench) ⭐ 52 | 🐛 2 | 🌐 HTML | 📅 2018-11-22
 * [eBay实战WebAssembly：50倍性能提升](https://mp.weixin.qq.com/s/kNVSAXTffAg8oDWvNV6xHQ)
 * [How we run KrakenD on Javascript with WebAssembly](https://medium.com/devops-faith/how-we-run-krakend-on-javascript-with-webassembly-f100ac2efd67)
 * [Writing a Frontend Web Framework with WebAssembly And Go](https://tutorialedge.net/golang/writing-frontend-web-framework-webassembly-go/)
@@ -173,13 +174,12 @@
 * [Ray Tracing: WebAssembly vs JavaScript](http://matt-harrison.com/raytracing-webassembly-vs-javascript/)
 * [The future of WebAssembly](https://blog.scottlogic.com/2018/07/20/wasm-future.html)
 * [Life: A secure, blazing-fast, cross-platform WebAssembly VM in Go](https://medium.com/perlin-network/life-a-secure-blazing-fast-cross-platform-webassembly-vm-in-go-ea3b31fa6e09)
-* [Haxe, WebAssembly, TypeScript, Dart performance benchmark](https://github.com/damoebius/HaxeBench) ⭐ 52 | 🐛 2 | 🌐 HTML | 📅 2018-11-22
 * [Vim Wasm – Vim Editor Ported To WebAssembly](https://kalilinuxtutorials.com/vim-wasm-vim-editor/)
 
 ## 其它
 
-* [Try C/TypeScript/Rust in Browser](https://wasm.fastlylabs.com/)
 * [Oak - The Go WebAssembly Framework](https://github.com/elliotforbes/oak) ⭐ 0 | 🐛 0 | 📅 2019-01-06
+* [Try C/TypeScript/Rust in Browser](https://wasm.fastlylabs.com/)
 * [Z80反汇编器](https://floooh.github.io/tiny8bit/kc85-ui.html?type=kc85_4)
 
 ***

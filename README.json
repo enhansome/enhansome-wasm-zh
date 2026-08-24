@@ -5,6 +5,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "https://github.com/mbasso/awesome-wasm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 89355243,
+            "language": null,
+            "last_commit": "2024-11-15T14:58:04Z",
+            "owner": "mbasso",
+            "repo": "awesome-wasm",
+            "stars": 9626
+          }
+        }
+      ],
+      "title": "其它awesome"
+    },
+    {
+      "description": "规范文件:\n性能报告:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/WebAssembly/spec/issues",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40598815,
+            "language": "WebAssembly",
+            "last_commit": "2026-08-12T19:00:43Z",
+            "owner": "WebAssembly",
+            "repo": "spec",
+            "stars": 3440
+          }
+        }
+      ],
+      "title": "官方参考"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "C/C++面向WebAssembly编程",
           "description": "开源图书, 已完稿",
           "children": [],
@@ -137,6 +179,36 @@
       "items": [
         {
           "node_type": "item",
+          "title": "https://github.com/aspnet/blazor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 116160755,
+            "language": "PowerShell",
+            "last_commit": "2021-02-23T15:13:56Z",
+            "owner": "dotnet",
+            "repo": "blazor",
+            "stars": 9269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/AssemblyScript/assemblyscript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105138356,
+            "language": "WebAssembly",
+            "last_commit": "2026-07-22T02:56:30Z",
+            "owner": "AssemblyScript",
+            "repo": "assemblyscript",
+            "stars": 17993
+          }
+        },
+        {
+          "node_type": "item",
           "title": "https://github.com/golang/go/wiki/WebAssembly",
           "description": null,
           "children": [],
@@ -147,7 +219,7 @@
             "last_commit": "2026-08-24T11:09:02Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136205
+            "stars": 136203
           }
         },
         {
@@ -194,13 +266,85 @@
             "repo": "JWebAssembly",
             "stars": 1052
           }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/rustwasm/book",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 136374648,
+            "language": "Handlebars",
+            "last_commit": "2025-08-25T19:34:25Z",
+            "owner": "rustwasm",
+            "repo": "book",
+            "stars": 1827
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/appcypher/awesome-wasm-langs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 114363116,
+            "language": null,
+            "last_commit": "2026-05-22T10:32:53Z",
+            "owner": "appcypher",
+            "repo": "awesome-wasm-langs",
+            "stars": 4439
+          }
         }
       ],
       "title": "编程语言"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Haxe, WebAssembly, TypeScript, Dart performance benchmark",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 134694241,
+            "language": "HTML",
+            "last_commit": "2018-11-22T12:24:44Z",
+            "owner": "damoebius",
+            "repo": "HaxeBench",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "技术文章"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Oak - The Go WebAssembly Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 164340720,
+            "language": null,
+            "last_commit": "2019-01-06T19:58:50Z",
+            "owner": "elliotforbes",
+            "repo": "oak",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "其它"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:10:33.079Z",
+    "last_updated": "2026-08-24T14:13:44.463Z",
     "original_repository": "wasmlang/awesome-wasm-zh",
     "original_repository_id": 143668970,
     "original_repository_sha": "e52c6ee31404b85c98f1303e4ce3911ff8600aaf",

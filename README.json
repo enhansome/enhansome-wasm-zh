@@ -51,7 +51,7 @@
             "last_commit": "2026-04-05T13:08:49Z",
             "owner": "WAVM",
             "repo": "WAVM",
-            "stars": 2773
+            "stars": 2774
           }
         },
         {
@@ -144,10 +144,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-23T02:48:50Z",
+            "last_commit": "2026-08-24T11:09:02Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136184
+            "stars": 136205
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-07-28T16:27:02Z",
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3093
+            "stars": 3095
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-17T18:54:13Z",
             "owner": "i-net-software",
             "repo": "JWebAssembly",
-            "stars": 1051
+            "stars": 1052
           }
         }
       ],
@@ -200,7 +200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T12:59:11.213Z",
+    "last_updated": "2026-08-24T13:10:33.079Z",
     "original_repository": "wasmlang/awesome-wasm-zh",
     "original_repository_id": 143668970,
     "original_repository_sha": "e52c6ee31404b85c98f1303e4ce3911ff8600aaf",

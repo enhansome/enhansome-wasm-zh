@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/mbasso/awesome-wasm",
+          "title": "mbasso/awesome-wasm",
           "description": null,
           "children": [],
           "repo_info": {
@@ -15,7 +15,7 @@
             "last_commit": "2024-11-15T14:58:04Z",
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9626
+            "stars": 9627
           }
         }
       ],
@@ -26,7 +26,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/WebAssembly/spec/issues",
+          "title": "WebAssembly/spec",
           "description": null,
           "children": [],
           "repo_info": {
@@ -36,7 +36,7 @@
             "last_commit": "2026-08-12T19:00:43Z",
             "owner": "WebAssembly",
             "repo": "spec",
-            "stars": 3440
+            "stars": 3442
           }
         }
       ],
@@ -83,7 +83,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/AndrewScheidecker/WAVM",
+          "title": "WAVM/WAVM",
           "description": null,
           "children": [],
           "repo_info": {
@@ -93,12 +93,12 @@
             "last_commit": "2026-04-05T13:08:49Z",
             "owner": "WAVM",
             "repo": "WAVM",
-            "stars": 2774
+            "stars": 2775
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/LuisHsu/WasmVM",
+          "title": "LuisHsu/WasmVM",
           "description": null,
           "children": [],
           "repo_info": {
@@ -113,7 +113,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/perlin-network/life",
+          "title": "perlin-network/life",
           "description": null,
           "children": [],
           "repo_info": {
@@ -128,7 +128,7 @@
         },
         {
           "node_type": "item",
-          "title": "http://github.com/go-interpreter/wagon",
+          "title": "go-interpreter/wagon",
           "description": null,
           "children": [],
           "repo_info": {
@@ -143,7 +143,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/tsavola/wag",
+          "title": "gate-computer/wag",
           "description": null,
           "children": [],
           "repo_info": {
@@ -158,7 +158,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/akupila/go-wasm",
+          "title": "akupila/go-wasm",
           "description": null,
           "children": [],
           "repo_info": {
@@ -179,7 +179,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/aspnet/blazor",
+          "title": "dotnet/blazor",
           "description": null,
           "children": [],
           "repo_info": {
@@ -194,7 +194,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/AssemblyScript/assemblyscript",
+          "title": "AssemblyScript/assemblyscript",
           "description": null,
           "children": [],
           "repo_info": {
@@ -209,22 +209,22 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/golang/go/wiki/WebAssembly",
+          "title": "golang/go",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-24T11:09:02Z",
+            "last_commit": "2026-08-25T00:53:42Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136203
+            "stars": 136443
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/dave/wasmgo",
+          "title": "dave/wasmgo",
           "description": null,
           "children": [],
           "repo_info": {
@@ -239,14 +239,14 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/konsoletyper/teavm",
+          "title": "konsoletyper/teavm",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 13045763,
             "language": "Java",
-            "last_commit": "2026-07-28T16:27:02Z",
+            "last_commit": "2026-08-24T18:34:24Z",
             "owner": "konsoletyper",
             "repo": "teavm",
             "stars": 3095
@@ -254,7 +254,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/i-net-software/JWebAssembly",
+          "title": "i-net-software/JWebAssembly",
           "description": null,
           "children": [],
           "repo_info": {
@@ -269,7 +269,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/rustwasm/book",
+          "title": "rustwasm/book",
           "description": null,
           "children": [],
           "repo_info": {
@@ -284,7 +284,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/appcypher/awesome-wasm-langs",
+          "title": "appcypher/awesome-wasm-langs",
           "description": null,
           "children": [],
           "repo_info": {
@@ -294,7 +294,7 @@
             "last_commit": "2026-05-22T10:32:53Z",
             "owner": "appcypher",
             "repo": "awesome-wasm-langs",
-            "stars": 4439
+            "stars": 4440
           }
         }
       ],
@@ -344,7 +344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:13:44.463Z",
+    "last_updated": "2026-08-25T06:07:53.300Z",
     "original_repository": "wasmlang/awesome-wasm-zh",
     "original_repository_id": 143668970,
     "original_repository_sha": "e52c6ee31404b85c98f1303e4ce3911ff8600aaf",

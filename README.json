@@ -15,7 +15,7 @@
             "last_commit": "2024-11-15T14:58:04Z",
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9628
+            "stars": 9630
           }
         }
       ],
@@ -189,7 +189,7 @@
             "last_commit": "2021-02-23T15:13:56Z",
             "owner": "dotnet",
             "repo": "blazor",
-            "stars": 9269
+            "stars": 9268
           }
         },
         {
@@ -216,10 +216,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-25T07:07:58Z",
+            "last_commit": "2026-08-26T02:35:23Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136451
+            "stars": 136454
           }
         },
         {
@@ -246,10 +246,10 @@
             "archived": false,
             "id": 13045763,
             "language": "Java",
-            "last_commit": "2026-08-24T18:34:24Z",
+            "last_commit": "2026-08-25T18:29:11Z",
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3096
+            "stars": 3098
           }
         },
         {
@@ -344,7 +344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:08:55.641Z",
+    "last_updated": "2026-08-26T13:13:16.904Z",
     "original_repository": "wasmlang/awesome-wasm-zh",
     "original_repository_id": 143668970,
     "original_repository_sha": "e52c6ee31404b85c98f1303e4ce3911ff8600aaf",

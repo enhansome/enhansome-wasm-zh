@@ -15,7 +15,7 @@
             "last_commit": "2024-11-15T14:58:04Z",
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9630
+            "stars": 9631
           }
         }
       ],
@@ -33,10 +33,10 @@
             "archived": false,
             "id": 40598815,
             "language": "WebAssembly",
-            "last_commit": "2026-08-12T19:00:43Z",
+            "last_commit": "2026-08-26T22:07:09Z",
             "owner": "WebAssembly",
             "repo": "spec",
-            "stars": 3442
+            "stars": 3441
           }
         }
       ],
@@ -216,10 +216,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-26T02:35:23Z",
+            "last_commit": "2026-08-27T04:31:00Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136454
+            "stars": 136538
           }
         },
         {
@@ -246,7 +246,7 @@
             "archived": false,
             "id": 13045763,
             "language": "Java",
-            "last_commit": "2026-08-25T18:29:11Z",
+            "last_commit": "2026-08-26T17:09:25Z",
             "owner": "konsoletyper",
             "repo": "teavm",
             "stars": 3098
@@ -344,9 +344,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:13:16.904Z",
-    "original_repository": "wasmlang/awesome-wasm-zh",
-    "original_repository_id": 143668970,
+    "last_updated": "2026-08-27T12:09:47.767Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 143668970,
+      "language": "WebAssembly",
+      "last_commit": "2024-10-12T14:06:50Z",
+      "owner": "wasmlang",
+      "repo": "awesome-wasm-zh",
+      "stars": 1035
+    },
     "original_repository_sha": "e52c6ee31404b85c98f1303e4ce3911ff8600aaf",
     "enhanced_repository": "enhansome/enhansome-wasm-zh",
     "enhanced_repository_description": null,

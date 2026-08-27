@@ -15,7 +15,7 @@
             "last_commit": "2024-11-15T14:58:04Z",
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9631
+            "stars": 9632
           }
         }
       ],
@@ -57,7 +57,7 @@
             "last_commit": "2024-04-17T14:37:31Z",
             "owner": "3dgen",
             "repo": "cppwasm-book",
-            "stars": 1400
+            "stars": 1401
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2024-04-17T14:37:31Z",
             "owner": "3dgen",
             "repo": "cppwasm-book",
-            "stars": 1400
+            "stars": 1401
           }
         }
       ],
@@ -216,10 +216,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-27T04:31:00Z",
+            "last_commit": "2026-08-27T21:17:30Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136538
+            "stars": 136548
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-08-26T17:09:25Z",
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3098
+            "stars": 3099
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2026-05-22T10:32:53Z",
             "owner": "appcypher",
             "repo": "awesome-wasm-langs",
-            "stars": 4441
+            "stars": 4440
           }
         }
       ],
@@ -344,7 +344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:09:47.767Z",
+    "last_updated": "2026-08-27T22:13:25.770Z",
     "original_repository_info": {
       "archived": false,
       "id": 143668970,

@@ -16,7 +16,8 @@
             "owner": "mbasso",
             "repo": "awesome-wasm",
             "stars": 9632
-          }
+          },
+          "first_seen": "2026-08-28T22:15:18.556Z"
         }
       ],
       "title": "其它awesome"
@@ -36,8 +37,9 @@
             "last_commit": "2026-08-26T22:07:09Z",
             "owner": "WebAssembly",
             "repo": "spec",
-            "stars": 3441
-          }
+            "stars": 3443
+          },
+          "first_seen": "2026-08-28T22:15:18.556Z"
         }
       ],
       "title": "官方参考"
@@ -58,7 +60,8 @@
             "owner": "3dgen",
             "repo": "cppwasm-book",
             "stars": 1401
-          }
+          },
+          "first_seen": "2026-08-28T22:15:18.556Z"
         },
         {
           "node_type": "item",
@@ -73,7 +76,8 @@
             "owner": "3dgen",
             "repo": "cppwasm-book",
             "stars": 1401
-          }
+          },
+          "first_seen": "2026-08-28T22:15:18.556Z"
         }
       ],
       "title": "WebAssembly图书"
@@ -94,7 +98,8 @@
             "owner": "WAVM",
             "repo": "WAVM",
             "stars": 2775
-          }
+          },
+          "first_seen": "2026-08-28T22:15:18.556Z"
         },
         {
           "node_type": "item",
@@ -109,7 +114,8 @@
             "owner": "LuisHsu",
             "repo": "WasmVM",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T22:15:18.556Z"
         },
         {
           "node_type": "item",
@@ -124,7 +130,8 @@
             "owner": "perlin-network",
             "repo": "life",
             "stars": 1689
-          }
+          },
+          "first_seen": "2026-08-28T22:15:18.556Z"
         },
         {
           "node_type": "item",
@@ -139,7 +146,8 @@
             "owner": "go-interpreter",
             "repo": "wagon",
             "stars": 898
-          }
+          },
+          "first_seen": "2026-08-28T22:15:18.556Z"
         },
         {
           "node_type": "item",
@@ -154,7 +162,8 @@
             "owner": "gate-computer",
             "repo": "wag",
             "stars": 192
-          }
+          },
+          "first_seen": "2026-08-28T22:15:18.556Z"
         },
         {
           "node_type": "item",
@@ -169,7 +178,8 @@
             "owner": "akupila",
             "repo": "go-wasm",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T22:15:18.556Z"
         }
       ],
       "title": "开源实现(虚拟机 & 编译器 & 工具链)"
@@ -189,8 +199,9 @@
             "last_commit": "2021-02-23T15:13:56Z",
             "owner": "dotnet",
             "repo": "blazor",
-            "stars": 9268
-          }
+            "stars": 9267
+          },
+          "first_seen": "2026-08-28T22:15:18.556Z"
         },
         {
           "node_type": "item",
@@ -205,7 +216,8 @@
             "owner": "AssemblyScript",
             "repo": "assemblyscript",
             "stars": 17993
-          }
+          },
+          "first_seen": "2026-08-28T22:15:18.556Z"
         },
         {
           "node_type": "item",
@@ -216,11 +228,12 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-27T21:17:30Z",
+            "last_commit": "2026-08-28T21:42:41Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136548
-          }
+            "stars": 136560
+          },
+          "first_seen": "2026-08-28T22:15:18.556Z"
         },
         {
           "node_type": "item",
@@ -235,7 +248,8 @@
             "owner": "dave",
             "repo": "wasmgo",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T22:15:18.556Z"
         },
         {
           "node_type": "item",
@@ -249,8 +263,9 @@
             "last_commit": "2026-08-26T17:09:25Z",
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3099
-          }
+            "stars": 3100
+          },
+          "first_seen": "2026-08-28T22:15:18.556Z"
         },
         {
           "node_type": "item",
@@ -265,7 +280,8 @@
             "owner": "i-net-software",
             "repo": "JWebAssembly",
             "stars": 1052
-          }
+          },
+          "first_seen": "2026-08-28T22:15:18.556Z"
         },
         {
           "node_type": "item",
@@ -280,7 +296,8 @@
             "owner": "rustwasm",
             "repo": "book",
             "stars": 1827
-          }
+          },
+          "first_seen": "2026-08-28T22:15:18.556Z"
         },
         {
           "node_type": "item",
@@ -294,8 +311,9 @@
             "last_commit": "2026-05-22T10:32:53Z",
             "owner": "appcypher",
             "repo": "awesome-wasm-langs",
-            "stars": 4440
-          }
+            "stars": 4441
+          },
+          "first_seen": "2026-08-28T22:15:18.556Z"
         }
       ],
       "title": "编程语言"
@@ -316,7 +334,8 @@
             "owner": "damoebius",
             "repo": "HaxeBench",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T22:15:18.556Z"
         }
       ],
       "title": "技术文章"
@@ -337,14 +356,15 @@
             "owner": "elliotforbes",
             "repo": "oak",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T22:15:18.556Z"
         }
       ],
       "title": "其它"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:13:25.770Z",
+    "last_updated": "2026-08-28T22:15:18.556Z",
     "original_repository_info": {
       "archived": false,
       "id": 143668970,

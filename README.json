@@ -19,7 +19,7 @@
             "open_issues": 95,
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9632,
+            "stars": 9631,
             "topics": [
               "awesome",
               "awesome-list",
@@ -85,7 +85,7 @@
             "open_issues": 7,
             "owner": "3dgen",
             "repo": "cppwasm-book",
-            "stars": 1401,
+            "stars": 1400,
             "topics": [
               "c",
               "cpp",
@@ -112,7 +112,7 @@
             "open_issues": 7,
             "owner": "3dgen",
             "repo": "cppwasm-book",
-            "stars": 1401,
+            "stars": 1400,
             "topics": [
               "c",
               "cpp",
@@ -318,7 +318,7 @@
             "open_issues": 201,
             "owner": "AssemblyScript",
             "repo": "assemblyscript",
-            "stars": 17993,
+            "stars": 17994,
             "topics": [
               "assemblyscript",
               "compiler",
@@ -341,11 +341,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-28T21:42:41Z",
-            "open_issues": 10085,
+            "last_commit": "2026-08-29T04:45:04Z",
+            "open_issues": 10097,
             "owner": "golang",
             "repo": "go",
-            "stars": 136562,
+            "stars": 136566,
             "topics": [
               "go",
               "golang",
@@ -389,7 +389,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-26T17:09:25Z",
-            "open_issues": 188,
+            "open_issues": 189,
             "owner": "konsoletyper",
             "repo": "teavm",
             "stars": 3100,
@@ -472,7 +472,7 @@
             "open_issues": 18,
             "owner": "appcypher",
             "repo": "awesome-wasm-langs",
-            "stars": 4441,
+            "stars": 4440,
             "topics": [
               "asmjs",
               "astro",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:35:09.730Z",
+    "last_updated": "2026-08-29T16:40:56.037Z",
     "original_repository_info": {
       "archived": false,
       "description": "WebAssembly(wasm)资源精选",

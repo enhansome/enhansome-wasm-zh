@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Curated list of awesome things regarding the WebAssembly (wasm) ecosystem.",
+            "homepage": null,
             "id": 89355243,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-11-15T14:58:04Z",
+            "open_issues": 95,
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9632
+            "stars": 9632,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-wasm",
+              "awesome-webassembly",
+              "list",
+              "lists",
+              "resources",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
         }
@@ -32,12 +47,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAssembly specification, reference interpreter, and test suite.",
+            "homepage": "https://webassembly.github.io/spec/",
             "id": 40598815,
             "language": "WebAssembly",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T22:07:09Z",
+            "open_issues": 101,
             "owner": "WebAssembly",
             "repo": "spec",
-            "stars": 3443
+            "stars": 3443,
+            "topics": [
+              "specification"
+            ]
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
         }
@@ -54,12 +76,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: WebAssembly friendly programming with C/C++ -- Emscripten practice",
+            "homepage": null,
             "id": 150200518,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-04-17T14:37:31Z",
+            "open_issues": 7,
             "owner": "3dgen",
             "repo": "cppwasm-book",
-            "stars": 1401
+            "stars": 1401,
+            "topics": [
+              "c",
+              "cpp",
+              "emscripten",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
         },
@@ -70,12 +103,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: WebAssembly friendly programming with C/C++ -- Emscripten practice",
+            "homepage": null,
             "id": 150200518,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-04-17T14:37:31Z",
+            "open_issues": 7,
             "owner": "3dgen",
             "repo": "cppwasm-book",
-            "stars": 1401
+            "stars": 1401,
+            "topics": [
+              "c",
+              "cpp",
+              "emscripten",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
         }
@@ -92,12 +136,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAssembly Virtual Machine",
+            "homepage": "https://wavm.github.io/",
             "id": 41151921,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-04-05T13:08:49Z",
+            "open_issues": 29,
             "owner": "WAVM",
             "repo": "WAVM",
-            "stars": 2775
+            "stars": 2776,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
         },
@@ -108,12 +157,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An unofficial standalone WebAssembly process virtual machine",
+            "homepage": "https://wasmvm.github.io/WasmVM/",
             "id": 156505792,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2019-09-02T17:14:14Z",
+            "open_issues": 0,
             "owner": "LuisHsu",
             "repo": "WasmVM",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
         },
@@ -124,12 +178,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A secure WebAssembly VM catered for decentralized applications.",
+            "homepage": null,
             "id": 141270618,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-03-30T17:36:24Z",
+            "open_issues": 36,
             "owner": "perlin-network",
             "repo": "life",
-            "stars": 1689
+            "stars": 1689,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
         },
@@ -140,12 +199,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "wagon, a WebAssembly-based Go interpreter, for Go.",
+            "homepage": null,
             "id": 80837772,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-05-11T08:02:55Z",
+            "open_issues": 38,
             "owner": "go-interpreter",
             "repo": "wagon",
-            "stars": 898
+            "stars": 898,
+            "topics": [
+              "go",
+              "golang",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
         },
@@ -156,12 +225,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAssembly compiler implemented in Go",
+            "homepage": "https://pkg.go.dev/gate.computer/wag",
             "id": 46967758,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-10-15T02:43:33Z",
+            "open_issues": 3,
             "owner": "gate-computer",
             "repo": "wag",
-            "stars": 192
+            "stars": 192,
+            "topics": [
+              "aarch64",
+              "amd64",
+              "arm64",
+              "compiler",
+              "go",
+              "wasm",
+              "webassembly",
+              "x86-64"
+            ]
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
         },
@@ -172,12 +255,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAssembly binary file parser written in go",
+            "homepage": null,
             "id": 142137057,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-10-30T16:01:06Z",
+            "open_issues": 5,
             "owner": "akupila",
             "repo": "go-wasm",
-            "stars": 132
+            "stars": 132,
+            "topics": [
+              "binary",
+              "go",
+              "golang",
+              "parser",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
         }
@@ -194,12 +288,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Blazor moved to https://github.com/dotnet/aspnetcore",
+            "homepage": "https://blazor.net/",
             "id": 116160755,
             "language": "PowerShell",
+            "license": "Apache-2.0",
             "last_commit": "2021-02-23T15:13:56Z",
+            "open_issues": 0,
             "owner": "dotnet",
             "repo": "blazor",
-            "stars": 9267
+            "stars": 9267,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
         },
@@ -210,12 +309,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A TypeScript-like language for WebAssembly.",
+            "homepage": "https://www.assemblyscript.org",
             "id": 105138356,
             "language": "WebAssembly",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-22T02:56:30Z",
+            "open_issues": 201,
             "owner": "AssemblyScript",
             "repo": "assemblyscript",
-            "stars": 17993
+            "stars": 17993,
+            "topics": [
+              "assemblyscript",
+              "compiler",
+              "typescript",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
         },
@@ -226,12 +336,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Go programming language",
+            "homepage": "https://go.dev",
             "id": 23096959,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T21:42:41Z",
+            "open_issues": 10085,
             "owner": "golang",
             "repo": "go",
-            "stars": 136560
+            "stars": 136562,
+            "topics": [
+              "go",
+              "golang",
+              "language",
+              "programming-language"
+            ]
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
         },
@@ -242,12 +362,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compiles Go to WASM and deploys to the jsgo.io CDN",
+            "homepage": null,
             "id": 144758081,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-03-07T00:43:48Z",
+            "open_issues": 4,
             "owner": "dave",
             "repo": "wasmgo",
-            "stars": 145
+            "stars": 145,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
         },
@@ -258,12 +383,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compiles Java bytecode to JavaScript, WebAssembly and C",
+            "homepage": "https://teavm.org",
             "id": 13045763,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T17:09:25Z",
+            "open_issues": 188,
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3100
+            "stars": 3100,
+            "topics": [
+              "aot",
+              "java",
+              "javascript",
+              "jvm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
         },
@@ -274,12 +410,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java bytecode to WebAssembly compiler",
+            "homepage": null,
             "id": 85615363,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T18:54:13Z",
+            "open_issues": 22,
             "owner": "i-net-software",
             "repo": "JWebAssembly",
-            "stars": 1052
+            "stars": 1052,
+            "topics": [
+              "compiler",
+              "java",
+              "jwebassembly",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
         },
@@ -290,12 +437,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Rust and WebAssembly Book",
+            "homepage": "https://rustwasm.github.io/docs/book/",
             "id": 136374648,
             "language": "Handlebars",
+            "license": "MIT",
             "last_commit": "2025-08-25T19:34:25Z",
+            "open_issues": 141,
             "owner": "rustwasm",
             "repo": "book",
-            "stars": 1827
+            "stars": 1827,
+            "topics": [
+              "mdbook",
+              "rust",
+              "rust-wasm",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
         },
@@ -306,12 +463,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 A curated list of languages that compile directly to or have their VMs in WebAssembly",
+            "homepage": null,
             "id": 114363116,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-22T10:32:53Z",
+            "open_issues": 18,
             "owner": "appcypher",
             "repo": "awesome-wasm-langs",
-            "stars": 4441
+            "stars": 4441,
+            "topics": [
+              "asmjs",
+              "astro",
+              "c",
+              "cpp",
+              "csharp",
+              "java",
+              "javascript",
+              "language",
+              "programming-language",
+              "typescript",
+              "wasm",
+              "web",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
         }
@@ -328,12 +504,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Haxe, Dart or Typescript",
+            "homepage": null,
             "id": 134694241,
             "language": "HTML",
+            "license": null,
             "last_commit": "2018-11-22T12:24:44Z",
+            "open_issues": 2,
             "owner": "damoebius",
             "repo": "HaxeBench",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
         }
@@ -350,12 +531,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 164340720,
             "language": null,
+            "license": null,
             "last_commit": "2019-01-06T19:58:50Z",
+            "open_issues": 0,
             "owner": "elliotforbes",
             "repo": "oak",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
         }
@@ -364,15 +550,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:15:18.556Z",
+    "last_updated": "2026-08-29T04:35:09.730Z",
     "original_repository_info": {
       "archived": false,
+      "description": "WebAssembly(wasm)资源精选",
+      "homepage": null,
       "id": 143668970,
       "language": "WebAssembly",
+      "license": "BSD-3-Clause",
       "last_commit": "2024-10-12T14:06:50Z",
+      "open_issues": 2,
       "owner": "wasmlang",
       "repo": "awesome-wasm-zh",
-      "stars": 1035
+      "stars": 1035,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-wasm",
+        "awesome-wasm-cn",
+        "wasm",
+        "webassembly"
+      ]
     },
     "original_repository_sha": "e52c6ee31404b85c98f1303e4ce3911ff8600aaf",
     "enhanced_repository": "enhansome/enhansome-wasm-zh",

@@ -39,7 +39,7 @@
 
 ## 官方参考
 
-1. <https://github.com/WebAssembly/spec/issues> ⭐ 3,443 | 🐛 100 | 🌐 WebAssembly | 📅 2026-08-26
+1. <https://github.com/WebAssembly/spec/issues> ⭐ 3,443 | 🐛 101 | 🌐 WebAssembly | 📅 2026-08-26
 2. <https://webassembly.org>
 3. <https://www.w3.org/TR/wasm-core-1>
 4. <https://www.w3.org/TR/wasm-js-api-1>
@@ -86,7 +86,7 @@
 
 **C/C++**
 
-* <https://github.com/AndrewScheidecker/WAVM> ⭐ 2,775 | 🐛 29 | 🌐 C++ | 📅 2026-04-05
+* <https://github.com/AndrewScheidecker/WAVM> ⭐ 2,776 | 🐛 29 | 🌐 C++ | 📅 2026-04-05
 * <https://github.com/LuisHsu/WasmVM> ⭐ 4 | 🐛 0 | 🌐 C++ | 📅 2019-09-02
 * <https://github.com/rianhunter/wasmjit>
 
@@ -117,7 +117,7 @@
 
 **Go**
 
-* <https://github.com/golang/go/wiki/WebAssembly> ⭐ 136,560 | 🐛 10,077 | 🌐 Go | 📅 2026-08-28
+* <https://github.com/golang/go/wiki/WebAssembly> ⭐ 136,562 | 🐛 10,085 | 🌐 Go | 📅 2026-08-28
 * <https://github.com/dave/wasmgo> ⭐ 145 | 🐛 4 | 🌐 Go | 📅 2023-03-07
 * [Getting started into Go and WebAssembly](https://medium.com/@sendilkumarn/getting-started-into-go-and-webassembly-8491b133a616)
 * <https://tip.golang.org/pkg/syscall/js/>
@@ -184,4 +184,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

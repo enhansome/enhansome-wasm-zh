@@ -16,10 +16,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-11-15T14:58:04Z",
-            "open_issues": 95,
+            "open_issues": 96,
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9632,
+            "stars": 9631,
             "topics": [
               "awesome",
               "awesome-list",
@@ -53,7 +53,7 @@
             "language": "WebAssembly",
             "license": "NOASSERTION",
             "last_commit": "2026-08-26T22:07:09Z",
-            "open_issues": 101,
+            "open_issues": 102,
             "owner": "WebAssembly",
             "repo": "spec",
             "stars": 3443,
@@ -318,7 +318,7 @@
             "open_issues": 201,
             "owner": "AssemblyScript",
             "repo": "assemblyscript",
-            "stars": 17995,
+            "stars": 17996,
             "topics": [
               "assemblyscript",
               "compiler",
@@ -341,11 +341,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-29T04:45:04Z",
-            "open_issues": 10100,
+            "last_commit": "2026-08-31T17:49:56Z",
+            "open_issues": 10108,
             "owner": "golang",
             "repo": "go",
-            "stars": 136830,
+            "stars": 136859,
             "topics": [
               "go",
               "golang",
@@ -388,7 +388,7 @@
             "id": 13045763,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-26T17:09:25Z",
+            "last_commit": "2026-08-31T18:50:34Z",
             "open_issues": 189,
             "owner": "konsoletyper",
             "repo": "teavm",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T16:37:52.806Z",
+    "last_updated": "2026-08-31T19:07:04.739Z",
     "original_repository_info": {
       "archived": false,
       "description": "WebAssembly(wasm)资源精选",

@@ -56,7 +56,7 @@
             "open_issues": 95,
             "owner": "WebAssembly",
             "repo": "spec",
-            "stars": 3445,
+            "stars": 3447,
             "topics": [
               "specification"
             ]
@@ -341,11 +341,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-03T18:41:01Z",
-            "open_issues": 10133,
+            "last_commit": "2026-09-05T12:33:14Z",
+            "open_issues": 10118,
             "owner": "golang",
             "repo": "go",
-            "stars": 137504,
+            "stars": 137519,
             "topics": [
               "go",
               "golang",
@@ -388,11 +388,11 @@
             "id": 13045763,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T17:12:52Z",
+            "last_commit": "2026-09-04T18:40:23Z",
             "open_issues": 183,
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3102,
+            "stars": 3104,
             "topics": [
               "aot",
               "java",
@@ -472,7 +472,7 @@
             "open_issues": 18,
             "owner": "appcypher",
             "repo": "awesome-wasm-langs",
-            "stars": 4441,
+            "stars": 4442,
             "topics": [
               "asmjs",
               "astro",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:17:59.246Z",
+    "last_updated": "2026-09-05T15:08:54.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "WebAssembly(wasm)资源精选",

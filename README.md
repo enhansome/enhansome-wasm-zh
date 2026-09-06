@@ -33,13 +33,13 @@
 
 ## 其它awesome
 
-* <https://github.com/mbasso/awesome-wasm> ⭐ 9,633 | 🐛 97 | 📅 2024-11-15
+* <https://github.com/mbasso/awesome-wasm> ⭐ 9,634 | 🐛 98 | 📅 2024-11-15
 
 ***
 
 ## 官方参考
 
-1. <https://github.com/WebAssembly/spec/issues> ⭐ 3,447 | 🐛 95 | 🌐 WebAssembly | 📅 2026-09-03
+1. <https://github.com/WebAssembly/spec/issues> ⭐ 3,449 | 🐛 95 | 🌐 WebAssembly | 📅 2026-09-03
 2. <https://webassembly.org>
 3. <https://www.w3.org/TR/wasm-core-1>
 4. <https://www.w3.org/TR/wasm-js-api-1>
@@ -73,8 +73,8 @@
 
 ## WebAssembly图书
 
-1. [C/C++面向WebAssembly编程](https://github.com/3dgen/cppwasm-book) ⭐ 1,400 | 🐛 7 | 🌐 C++ | 📅 2024-04-17 - 开源图书, 已完稿
-2. [WebAssembly friendly programming with C/C++](https://github.com/3dgen/cppwasm-book) ⭐ 1,400 | 🐛 7 | 🌐 C++ | 📅 2024-04-17 - 英文
+1. [C/C++面向WebAssembly编程](https://github.com/3dgen/cppwasm-book) ⭐ 1,401 | 🐛 7 | 🌐 C++ | 📅 2024-04-17 - 开源图书, 已完稿
+2. [WebAssembly friendly programming with C/C++](https://github.com/3dgen/cppwasm-book) ⭐ 1,401 | 🐛 7 | 🌐 C++ | 📅 2024-04-17 - 英文
 3. [WebAssembly标准入门](webassembly-primer.md) - 人民邮电出版社, 49元, [配套视频课程](https://study.163.com/course/introduction/1209346823.htm)
 4. [Learn WebAssembly](https://www.packtpub.com/web-development/learn-webassembly) - 英文
 5. [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust) - 英文
@@ -107,7 +107,7 @@
 
 **AssemblyScript**
 
-* <https://github.com/AssemblyScript/assemblyscript> ⭐ 18,002 | 🐛 203 | 🌐 WebAssembly | 📅 2026-09-03
+* <https://github.com/AssemblyScript/assemblyscript> ⭐ 18,001 | 🐛 203 | 🌐 WebAssembly | 📅 2026-09-03
 
 **C/C++/D**
 
@@ -117,7 +117,7 @@
 
 **Go**
 
-* <https://github.com/golang/go/wiki/WebAssembly> ⭐ 137,519 | 🐛 10,118 | 🌐 Go | 📅 2026-09-05
+* <https://github.com/golang/go/wiki/WebAssembly> ⭐ 137,557 | 🐛 10,123 | 🌐 Go | 📅 2026-09-05
 * <https://github.com/dave/wasmgo> ⭐ 145 | 🐛 4 | 🌐 Go | 📅 2023-03-07
 * [Getting started into Go and WebAssembly](https://medium.com/@sendilkumarn/getting-started-into-go-and-webassembly-8491b133a616)
 * <https://tip.golang.org/pkg/syscall/js/>
@@ -136,7 +136,7 @@
 
 **More**
 
-* <https://github.com/appcypher/awesome-wasm-langs> ⭐ 4,442 | 🐛 18 | 📅 2026-05-22
+* <https://github.com/appcypher/awesome-wasm-langs> ⭐ 4,443 | 🐛 18 | 📅 2026-05-22
 
 ***
 
@@ -184,4 +184,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

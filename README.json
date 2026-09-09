@@ -19,7 +19,7 @@
             "open_issues": 98,
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9634,
+            "stars": 9636,
             "topics": [
               "awesome",
               "awesome-list",
@@ -52,8 +52,8 @@
             "id": 40598815,
             "language": "WebAssembly",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T14:50:40Z",
-            "open_issues": 96,
+            "last_commit": "2026-09-09T09:04:07Z",
+            "open_issues": 95,
             "owner": "WebAssembly",
             "repo": "spec",
             "stars": 3450,
@@ -297,7 +297,7 @@
             "open_issues": 0,
             "owner": "dotnet",
             "repo": "blazor",
-            "stars": 9264,
+            "stars": 9265,
             "topics": []
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
@@ -318,7 +318,7 @@
             "open_issues": 203,
             "owner": "AssemblyScript",
             "repo": "assemblyscript",
-            "stars": 18004,
+            "stars": 18008,
             "topics": [
               "assemblyscript",
               "compiler",
@@ -341,11 +341,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-08T16:30:18Z",
-            "open_issues": 10129,
+            "last_commit": "2026-09-09T15:29:56Z",
+            "open_issues": 10132,
             "owner": "golang",
             "repo": "go",
-            "stars": 138028,
+            "stars": 138037,
             "topics": [
               "go",
               "golang",
@@ -388,8 +388,8 @@
             "id": 13045763,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T18:32:20Z",
-            "open_issues": 185,
+            "last_commit": "2026-09-09T15:54:39Z",
+            "open_issues": 186,
             "owner": "konsoletyper",
             "repo": "teavm",
             "stars": 3106,
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T16:35:00.259Z",
+    "last_updated": "2026-09-09T16:34:50.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "WebAssembly(wasm)资源精选",

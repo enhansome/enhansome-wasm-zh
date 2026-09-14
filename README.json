@@ -19,7 +19,7 @@
             "open_issues": 99,
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9638,
+            "stars": 9639,
             "topics": [
               "awesome",
               "awesome-list",
@@ -145,7 +145,7 @@
             "open_issues": 29,
             "owner": "WAVM",
             "repo": "WAVM",
-            "stars": 2779,
+            "stars": 2780,
             "topics": []
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
@@ -314,11 +314,11 @@
             "id": 105138356,
             "language": "WebAssembly",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T00:20:58Z",
-            "open_issues": 203,
+            "last_commit": "2026-09-14T00:05:09Z",
+            "open_issues": 204,
             "owner": "AssemblyScript",
             "repo": "assemblyscript",
-            "stars": 18014,
+            "stars": 18015,
             "topics": [
               "assemblyscript",
               "compiler",
@@ -341,11 +341,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-12T15:23:42Z",
-            "open_issues": 10136,
+            "last_commit": "2026-09-14T16:51:57Z",
+            "open_issues": 10144,
             "owner": "golang",
             "repo": "go",
-            "stars": 138795,
+            "stars": 138807,
             "topics": [
               "go",
               "golang",
@@ -388,11 +388,11 @@
             "id": 13045763,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T17:59:22Z",
+            "last_commit": "2026-09-14T17:18:01Z",
             "open_issues": 186,
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3107,
+            "stars": 3109,
             "topics": [
               "aot",
               "java",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T16:12:52.205Z",
+    "last_updated": "2026-09-14T18:03:46.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "WebAssembly(wasm)资源精选",

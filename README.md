@@ -33,7 +33,7 @@
 
 ## 其它awesome
 
-* <https://github.com/mbasso/awesome-wasm> ⭐ 9,640 | 🐛 99 | 📅 2024-11-15
+* <https://github.com/mbasso/awesome-wasm> ⭐ 9,642 | 🐛 100 | 📅 2024-11-15
 
 ***
 
@@ -117,7 +117,7 @@
 
 **Go**
 
-* <https://github.com/golang/go/wiki/WebAssembly> ⭐ 138,843 | 🐛 10,156 | 🌐 Go | 📅 2026-09-16
+* <https://github.com/golang/go/wiki/WebAssembly> ⭐ 138,890 | 🐛 10,162 | 🌐 Go | 📅 2026-09-17
 * <https://github.com/dave/wasmgo> ⭐ 145 | 🐛 4 | 🌐 Go | 📅 2023-03-07
 * [Getting started into Go and WebAssembly](https://medium.com/@sendilkumarn/getting-started-into-go-and-webassembly-8491b133a616)
 * <https://tip.golang.org/pkg/syscall/js/>
@@ -184,4 +184,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._

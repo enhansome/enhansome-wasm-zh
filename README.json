@@ -16,10 +16,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-11-15T14:58:04Z",
-            "open_issues": 100,
+            "open_issues": 101,
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9642,
+            "stars": 9641,
             "topics": [
               "awesome",
               "awesome-list",
@@ -53,10 +53,10 @@
             "language": "WebAssembly",
             "license": "NOASSERTION",
             "last_commit": "2026-09-11T15:41:33Z",
-            "open_issues": 95,
+            "open_issues": 96,
             "owner": "WebAssembly",
             "repo": "spec",
-            "stars": 3452,
+            "stars": 3453,
             "topics": [
               "specification"
             ]
@@ -318,7 +318,7 @@
             "open_issues": 204,
             "owner": "AssemblyScript",
             "repo": "assemblyscript",
-            "stars": 18018,
+            "stars": 18022,
             "topics": [
               "assemblyscript",
               "compiler",
@@ -341,11 +341,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-18T15:41:27Z",
-            "open_issues": 10156,
+            "last_commit": "2026-09-19T06:12:59Z",
+            "open_issues": 10155,
             "owner": "golang",
             "repo": "go",
-            "stars": 138868,
+            "stars": 138883,
             "topics": [
               "go",
               "golang",
@@ -446,7 +446,7 @@
             "open_issues": 141,
             "owner": "rustwasm",
             "repo": "book",
-            "stars": 1827,
+            "stars": 1828,
             "topics": [
               "mdbook",
               "rust",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T16:20:49.253Z",
+    "last_updated": "2026-09-19T15:50:37.981Z",
     "original_repository_info": {
       "archived": false,
       "description": "WebAssembly(wasm)资源精选",

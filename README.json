@@ -19,7 +19,7 @@
             "open_issues": 101,
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9644,
+            "stars": 9645,
             "topics": [
               "awesome",
               "awesome-list",
@@ -318,7 +318,7 @@
             "open_issues": 203,
             "owner": "AssemblyScript",
             "repo": "assemblyscript",
-            "stars": 18024,
+            "stars": 18023,
             "topics": [
               "assemblyscript",
               "compiler",
@@ -341,11 +341,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-21T17:05:07Z",
-            "open_issues": 10165,
+            "last_commit": "2026-09-22T16:50:40Z",
+            "open_issues": 10174,
             "owner": "golang",
             "repo": "go",
-            "stars": 138922,
+            "stars": 138946,
             "topics": [
               "go",
               "golang",
@@ -419,7 +419,7 @@
             "open_issues": 22,
             "owner": "i-net-software",
             "repo": "JWebAssembly",
-            "stars": 1055,
+            "stars": 1056,
             "topics": [
               "compiler",
               "java",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T18:11:51.648Z",
+    "last_updated": "2026-09-22T16:53:23.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "WebAssembly(wasm)资源精选",

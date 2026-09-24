@@ -1,6 +1,6 @@
 # Awesome WebAssembly资料精选 - 中文版 with stars
 
-* *凹语言™: <https://github.com/wa-lang/wa> ⭐ 1,768 | 🐛 6 | 🌐 Go | 📅 2026-04-30*
+* *凹语言™: <https://github.com/wa-lang/wa> ⭐ 1,770 | 🐛 6 | 🌐 Go | 📅 2026-04-30*
 
 ***
 
@@ -33,13 +33,13 @@
 
 ## 其它awesome
 
-* <https://github.com/mbasso/awesome-wasm> ⭐ 9,645 | 🐛 102 | 📅 2024-11-15
+* <https://github.com/mbasso/awesome-wasm> ⭐ 9,645 | 🐛 103 | 📅 2024-11-15
 
 ***
 
 ## 官方参考
 
-1. <https://github.com/WebAssembly/spec/issues> ⭐ 3,455 | 🐛 95 | 🌐 WebAssembly | 📅 2026-09-22
+1. <https://github.com/WebAssembly/spec/issues> ⭐ 3,456 | 🐛 95 | 🌐 WebAssembly | 📅 2026-09-22
 2. <https://webassembly.org>
 3. <https://www.w3.org/TR/wasm-core-1>
 4. <https://www.w3.org/TR/wasm-js-api-1>
@@ -92,10 +92,10 @@
 
 **Go**
 
-* <https://github.com/perlin-network/life> ⭐ 1,689 | 🐛 36 | 🌐 Go | 📅 2022-03-30
+* <https://github.com/perlin-network/life> ⭐ 1,690 | 🐛 36 | 🌐 Go | 📅 2022-03-30
 * <http://github.com/go-interpreter/wagon> ⚠️ Archived
 * <https://github.com/tsavola/wag> ⭐ 192 | 🐛 3 | 🌐 Go | 📅 2025-10-15
-* <https://github.com/akupila/go-wasm> ⭐ 132 | 🐛 5 | 🌐 Go | 📅 2021-10-30
+* <https://github.com/akupila/go-wasm> ⭐ 133 | 🐛 5 | 🌐 Go | 📅 2021-10-30
 
 ***
 
@@ -107,7 +107,7 @@
 
 **AssemblyScript**
 
-* <https://github.com/AssemblyScript/assemblyscript> ⭐ 18,024 | 🐛 203 | 🌐 WebAssembly | 📅 2026-09-14
+* <https://github.com/AssemblyScript/assemblyscript> ⭐ 18,027 | 🐛 203 | 🌐 WebAssembly | 📅 2026-09-14
 
 **C/C++/D**
 
@@ -117,7 +117,7 @@
 
 **Go**
 
-* <https://github.com/golang/go/wiki/WebAssembly> ⭐ 138,963 | 🐛 10,207 | 🌐 Go | 📅 2026-09-23
+* <https://github.com/golang/go/wiki/WebAssembly> ⭐ 138,970 | 🐛 10,216 | 🌐 Go | 📅 2026-09-24
 * <https://github.com/dave/wasmgo> ⭐ 145 | 🐛 4 | 🌐 Go | 📅 2023-03-07
 * [Getting started into Go and WebAssembly](https://medium.com/@sendilkumarn/getting-started-into-go-and-webassembly-8491b133a616)
 * <https://tip.golang.org/pkg/syscall/js/>
@@ -184,4 +184,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

@@ -16,7 +16,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-11-15T14:58:04Z",
-            "open_issues": 102,
+            "open_issues": 103,
             "owner": "mbasso",
             "repo": "awesome-wasm",
             "stars": 9645,
@@ -56,7 +56,7 @@
             "open_issues": 95,
             "owner": "WebAssembly",
             "repo": "spec",
-            "stars": 3455,
+            "stars": 3456,
             "topics": [
               "specification"
             ]
@@ -187,7 +187,7 @@
             "open_issues": 36,
             "owner": "perlin-network",
             "repo": "life",
-            "stars": 1689,
+            "stars": 1690,
             "topics": []
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
@@ -208,7 +208,7 @@
             "open_issues": 38,
             "owner": "go-interpreter",
             "repo": "wagon",
-            "stars": 898,
+            "stars": 899,
             "topics": [
               "go",
               "golang",
@@ -264,7 +264,7 @@
             "open_issues": 5,
             "owner": "akupila",
             "repo": "go-wasm",
-            "stars": 132,
+            "stars": 133,
             "topics": [
               "binary",
               "go",
@@ -318,7 +318,7 @@
             "open_issues": 203,
             "owner": "AssemblyScript",
             "repo": "assemblyscript",
-            "stars": 18024,
+            "stars": 18027,
             "topics": [
               "assemblyscript",
               "compiler",
@@ -341,11 +341,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-23T16:32:40Z",
-            "open_issues": 10207,
+            "last_commit": "2026-09-24T16:52:07Z",
+            "open_issues": 10216,
             "owner": "golang",
             "repo": "go",
-            "stars": 138963,
+            "stars": 138970,
             "topics": [
               "go",
               "golang",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T16:52:02.339Z",
+    "last_updated": "2026-09-24T17:06:06.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "WebAssembly(wasm)资源精选",

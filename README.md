@@ -33,13 +33,13 @@
 
 ## 其它awesome
 
-* <https://github.com/mbasso/awesome-wasm> ⭐ 9,645 | 🐛 103 | 📅 2024-11-15
+* <https://github.com/mbasso/awesome-wasm> ⭐ 9,645 | 🐛 104 | 📅 2024-11-15
 
 ***
 
 ## 官方参考
 
-1. <https://github.com/WebAssembly/spec/issues> ⭐ 3,456 | 🐛 95 | 🌐 WebAssembly | 📅 2026-09-22
+1. <https://github.com/WebAssembly/spec/issues> ⭐ 3,456 | 🐛 96 | 🌐 WebAssembly | 📅 2026-09-22
 2. <https://webassembly.org>
 3. <https://www.w3.org/TR/wasm-core-1>
 4. <https://www.w3.org/TR/wasm-js-api-1>
@@ -73,8 +73,8 @@
 
 ## WebAssembly图书
 
-1. [C/C++面向WebAssembly编程](https://github.com/3dgen/cppwasm-book) ⭐ 1,401 | 🐛 7 | 🌐 C++ | 📅 2024-04-17 - 开源图书, 已完稿
-2. [WebAssembly friendly programming with C/C++](https://github.com/3dgen/cppwasm-book) ⭐ 1,401 | 🐛 7 | 🌐 C++ | 📅 2024-04-17 - 英文
+1. [C/C++面向WebAssembly编程](https://github.com/3dgen/cppwasm-book) ⭐ 1,401 | 🐛 8 | 🌐 C++ | 📅 2024-04-17 - 开源图书, 已完稿
+2. [WebAssembly friendly programming with C/C++](https://github.com/3dgen/cppwasm-book) ⭐ 1,401 | 🐛 8 | 🌐 C++ | 📅 2024-04-17 - 英文
 3. [WebAssembly标准入门](webassembly-primer.md) - 人民邮电出版社, 49元, [配套视频课程](https://study.163.com/course/introduction/1209346823.htm)
 4. [Learn WebAssembly](https://www.packtpub.com/web-development/learn-webassembly) - 英文
 5. [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust) - 英文
@@ -86,7 +86,7 @@
 
 **C/C++**
 
-* <https://github.com/AndrewScheidecker/WAVM> ⭐ 2,780 | 🐛 29 | 🌐 C++ | 📅 2026-04-05
+* <https://github.com/AndrewScheidecker/WAVM> ⭐ 2,781 | 🐛 29 | 🌐 C++ | 📅 2026-04-05
 * <https://github.com/LuisHsu/WasmVM> ⭐ 4 | 🐛 0 | 🌐 C++ | 📅 2019-09-02
 * <https://github.com/rianhunter/wasmjit>
 
@@ -117,14 +117,14 @@
 
 **Go**
 
-* <https://github.com/golang/go/wiki/WebAssembly> ⭐ 138,970 | 🐛 10,216 | 🌐 Go | 📅 2026-09-24
+* <https://github.com/golang/go/wiki/WebAssembly> ⭐ 138,997 | 🐛 10,237 | 🌐 Go | 📅 2026-09-25
 * <https://github.com/dave/wasmgo> ⭐ 145 | 🐛 4 | 🌐 Go | 📅 2023-03-07
 * [Getting started into Go and WebAssembly](https://medium.com/@sendilkumarn/getting-started-into-go-and-webassembly-8491b133a616)
 * <https://tip.golang.org/pkg/syscall/js/>
 
 **Java & Kotlin**
 
-* <https://github.com/konsoletyper/teavm> ⭐ 3,114 | 🐛 191 | 🌐 Java | 📅 2026-09-15
+* <https://github.com/konsoletyper/teavm> ⭐ 3,115 | 🐛 191 | 🌐 Java | 📅 2026-09-15
 * <https://github.com/i-net-software/JWebAssembly> ⭐ 1,056 | 🐛 22 | 🌐 Java | 📅 2026-08-17
 * <https://superkotlin.com/kotlin-and-webassembly/>
 
@@ -184,4 +184,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._

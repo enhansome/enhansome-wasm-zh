@@ -16,7 +16,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-11-15T14:58:04Z",
-            "open_issues": 103,
+            "open_issues": 104,
             "owner": "mbasso",
             "repo": "awesome-wasm",
             "stars": 9645,
@@ -53,7 +53,7 @@
             "language": "WebAssembly",
             "license": "NOASSERTION",
             "last_commit": "2026-09-22T22:05:00Z",
-            "open_issues": 95,
+            "open_issues": 96,
             "owner": "WebAssembly",
             "repo": "spec",
             "stars": 3456,
@@ -82,7 +82,7 @@
             "language": "C++",
             "license": null,
             "last_commit": "2024-04-17T14:37:31Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "3dgen",
             "repo": "cppwasm-book",
             "stars": 1401,
@@ -109,7 +109,7 @@
             "language": "C++",
             "license": null,
             "last_commit": "2024-04-17T14:37:31Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "3dgen",
             "repo": "cppwasm-book",
             "stars": 1401,
@@ -145,7 +145,7 @@
             "open_issues": 29,
             "owner": "WAVM",
             "repo": "WAVM",
-            "stars": 2780,
+            "stars": 2781,
             "topics": []
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
@@ -341,11 +341,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-24T16:52:07Z",
-            "open_issues": 10216,
+            "last_commit": "2026-09-25T16:02:57Z",
+            "open_issues": 10237,
             "owner": "golang",
             "repo": "go",
-            "stars": 138970,
+            "stars": 138997,
             "topics": [
               "go",
               "golang",
@@ -392,7 +392,7 @@
             "open_issues": 191,
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3114,
+            "stars": 3115,
             "topics": [
               "aot",
               "java",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T17:06:06.353Z",
+    "last_updated": "2026-09-25T17:06:12.020Z",
     "original_repository_info": {
       "archived": false,
       "description": "WebAssembly(wasm)资源精选",

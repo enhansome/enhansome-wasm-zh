@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "mbasso/awesome-wasm",
-          "description": null,
+          "description": "mbasso/awesome-wasm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 107,
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9647,
+            "stars": 9648,
             "topics": [
               "awesome",
               "awesome-list",
@@ -43,7 +43,7 @@
         {
           "node_type": "item",
           "title": "WebAssembly/spec",
-          "description": null,
+          "description": "WebAssembly/spec",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -52,8 +52,8 @@
             "id": 40598815,
             "language": "WebAssembly",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T12:52:20Z",
-            "open_issues": 100,
+            "last_commit": "2026-10-03T02:59:06Z",
+            "open_issues": 101,
             "owner": "WebAssembly",
             "repo": "spec",
             "stars": 3458,
@@ -132,7 +132,7 @@
         {
           "node_type": "item",
           "title": "WAVM/WAVM",
-          "description": null,
+          "description": "WAVM/WAVM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -153,7 +153,7 @@
         {
           "node_type": "item",
           "title": "LuisHsu/WasmVM",
-          "description": null,
+          "description": "LuisHsu/WasmVM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -174,7 +174,7 @@
         {
           "node_type": "item",
           "title": "perlin-network/life",
-          "description": null,
+          "description": "perlin-network/life",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -195,7 +195,7 @@
         {
           "node_type": "item",
           "title": "go-interpreter/wagon",
-          "description": null,
+          "description": "go-interpreter/wagon",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -221,7 +221,7 @@
         {
           "node_type": "item",
           "title": "gate-computer/wag",
-          "description": null,
+          "description": "gate-computer/wag",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -251,7 +251,7 @@
         {
           "node_type": "item",
           "title": "akupila/go-wasm",
-          "description": null,
+          "description": "akupila/go-wasm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -284,7 +284,7 @@
         {
           "node_type": "item",
           "title": "dotnet/blazor",
-          "description": null,
+          "description": "dotnet/blazor",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -305,7 +305,7 @@
         {
           "node_type": "item",
           "title": "AssemblyScript/assemblyscript",
-          "description": null,
+          "description": "AssemblyScript/assemblyscript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -332,7 +332,7 @@
         {
           "node_type": "item",
           "title": "golang/go",
-          "description": null,
+          "description": "golang/go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -341,11 +341,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T17:35:22Z",
-            "open_issues": 10281,
+            "last_commit": "2026-10-02T21:55:53Z",
+            "open_issues": 10283,
             "owner": "golang",
             "repo": "go",
-            "stars": 139122,
+            "stars": 139133,
             "topics": [
               "go",
               "golang",
@@ -358,7 +358,7 @@
         {
           "node_type": "item",
           "title": "dave/wasmgo",
-          "description": null,
+          "description": "dave/wasmgo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -379,7 +379,7 @@
         {
           "node_type": "item",
           "title": "konsoletyper/teavm",
-          "description": null,
+          "description": "konsoletyper/teavm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -392,7 +392,7 @@
             "open_issues": 193,
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3118,
+            "stars": 3117,
             "topics": [
               "aot",
               "java",
@@ -406,7 +406,7 @@
         {
           "node_type": "item",
           "title": "i-net-software/JWebAssembly",
-          "description": null,
+          "description": "i-net-software/JWebAssembly",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -419,7 +419,7 @@
             "open_issues": 22,
             "owner": "i-net-software",
             "repo": "JWebAssembly",
-            "stars": 1056,
+            "stars": 1054,
             "topics": [
               "compiler",
               "java",
@@ -433,7 +433,7 @@
         {
           "node_type": "item",
           "title": "rustwasm/book",
-          "description": null,
+          "description": "rustwasm/book",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -459,7 +459,7 @@
         {
           "node_type": "item",
           "title": "appcypher/awesome-wasm-langs",
-          "description": null,
+          "description": "appcypher/awesome-wasm-langs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -500,7 +500,7 @@
         {
           "node_type": "item",
           "title": "Haxe, WebAssembly, TypeScript, Dart performance benchmark",
-          "description": null,
+          "description": "damoebius/HaxeBench",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -527,7 +527,7 @@
         {
           "node_type": "item",
           "title": "Oak - The Go WebAssembly Framework",
-          "description": null,
+          "description": "elliotforbes/oak",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T17:50:25.568Z",
+    "last_updated": "2026-10-03T05:12:46.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "WebAssembly(wasm)资源精选",

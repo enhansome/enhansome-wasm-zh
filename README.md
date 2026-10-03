@@ -39,7 +39,7 @@
 
 ## 官方参考
 
-1. <https://github.com/WebAssembly/spec/issues> ⭐ 3,458 | 🐛 101 | 🌐 WebAssembly | 📅 2026-10-03
+1. <https://github.com/WebAssembly/spec/issues> ⭐ 3,459 | 🐛 100 | 🌐 WebAssembly | 📅 2026-10-03
 2. <https://webassembly.org>
 3. <https://www.w3.org/TR/wasm-core-1>
 4. <https://www.w3.org/TR/wasm-js-api-1>
@@ -107,7 +107,7 @@
 
 **AssemblyScript**
 
-* <https://github.com/AssemblyScript/assemblyscript> ⭐ 18,031 | 🐛 203 | 🌐 WebAssembly | 📅 2026-09-14
+* <https://github.com/AssemblyScript/assemblyscript> ⭐ 18,030 | 🐛 209 | 🌐 WebAssembly | 📅 2026-09-14
 
 **C/C++/D**
 
@@ -117,14 +117,14 @@
 
 **Go**
 
-* <https://github.com/golang/go/wiki/WebAssembly> ⭐ 139,133 | 🐛 10,283 | 🌐 Go | 📅 2026-10-02
+* <https://github.com/golang/go/wiki/WebAssembly> ⭐ 139,140 | 🐛 10,288 | 🌐 Go | 📅 2026-10-02
 * <https://github.com/dave/wasmgo> ⭐ 145 | 🐛 4 | 🌐 Go | 📅 2023-03-07
 * [Getting started into Go and WebAssembly](https://medium.com/@sendilkumarn/getting-started-into-go-and-webassembly-8491b133a616)
 * <https://tip.golang.org/pkg/syscall/js/>
 
 **Java & Kotlin**
 
-* <https://github.com/konsoletyper/teavm> ⭐ 3,117 | 🐛 193 | 🌐 Java | 📅 2026-10-02
+* <https://github.com/konsoletyper/teavm> ⭐ 3,118 | 🐛 195 | 🌐 Java | 📅 2026-10-02
 * <https://github.com/i-net-software/JWebAssembly> ⭐ 1,054 | 🐛 22 | 🌐 Java | 📅 2026-10-01
 * <https://superkotlin.com/kotlin-and-webassembly/>
 

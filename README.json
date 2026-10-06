@@ -19,7 +19,7 @@
             "open_issues": 110,
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9648,
+            "stars": 9649,
             "topics": [
               "awesome",
               "awesome-list",
@@ -85,7 +85,7 @@
             "open_issues": 7,
             "owner": "3dgen",
             "repo": "cppwasm-book",
-            "stars": 1401,
+            "stars": 1402,
             "topics": [
               "c",
               "cpp",
@@ -112,7 +112,7 @@
             "open_issues": 7,
             "owner": "3dgen",
             "repo": "cppwasm-book",
-            "stars": 1401,
+            "stars": 1402,
             "topics": [
               "c",
               "cpp",
@@ -341,11 +341,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-05T19:50:56Z",
-            "open_issues": 10304,
+            "last_commit": "2026-10-06T02:58:58Z",
+            "open_issues": 10317,
             "owner": "golang",
             "repo": "go",
-            "stars": 139270,
+            "stars": 139294,
             "topics": [
               "go",
               "golang",
@@ -388,11 +388,11 @@
             "id": 13045763,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T20:31:26Z",
-            "open_issues": 193,
+            "last_commit": "2026-10-06T10:22:32Z",
+            "open_issues": 192,
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3119,
+            "stars": 3120,
             "topics": [
               "aot",
               "java",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T20:51:50.486Z",
+    "last_updated": "2026-10-06T10:58:39.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "WebAssembly(wasm)资源精选",

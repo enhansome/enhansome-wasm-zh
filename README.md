@@ -39,7 +39,7 @@
 
 ## 官方参考
 
-1. <https://github.com/WebAssembly/spec/issues> ⭐ 3,463 | 🐛 103 | 🌐 WebAssembly | 📅 2026-10-15
+1. <https://github.com/WebAssembly/spec/issues> ⭐ 3,464 | 🐛 103 | 🌐 WebAssembly | 📅 2026-10-15
 2. <https://webassembly.org>
 3. <https://www.w3.org/TR/wasm-core-1>
 4. <https://www.w3.org/TR/wasm-js-api-1>
@@ -73,8 +73,8 @@
 
 ## WebAssembly图书
 
-1. [C/C++面向WebAssembly编程](https://github.com/3dgen/cppwasm-book) ⭐ 1,403 | 🐛 7 | 🌐 C++ | 📅 2024-04-17 - 开源图书, 已完稿
-2. [WebAssembly friendly programming with C/C++](https://github.com/3dgen/cppwasm-book) ⭐ 1,403 | 🐛 7 | 🌐 C++ | 📅 2024-04-17 - 英文
+1. [C/C++面向WebAssembly编程](https://github.com/3dgen/cppwasm-book) ⭐ 1,401 | 🐛 7 | 🌐 C++ | 📅 2024-04-17 - 开源图书, 已完稿
+2. [WebAssembly friendly programming with C/C++](https://github.com/3dgen/cppwasm-book) ⭐ 1,401 | 🐛 7 | 🌐 C++ | 📅 2024-04-17 - 英文
 3. [WebAssembly标准入门](webassembly-primer.md) - 人民邮电出版社, 49元, [配套视频课程](https://study.163.com/course/introduction/1209346823.htm)
 4. [Learn WebAssembly](https://www.packtpub.com/web-development/learn-webassembly) - 英文
 5. [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust) - 英文
@@ -107,7 +107,7 @@
 
 **AssemblyScript**
 
-* <https://github.com/AssemblyScript/assemblyscript> ⭐ 18,030 | 🐛 213 | 🌐 WebAssembly | 📅 2026-09-14
+* <https://github.com/AssemblyScript/assemblyscript> ⭐ 18,032 | 🐛 212 | 🌐 WebAssembly | 📅 2026-09-14
 
 **C/C++/D**
 
@@ -117,15 +117,15 @@
 
 **Go**
 
-* <https://github.com/golang/go/wiki/WebAssembly> ⭐ 139,193 | 🐛 10,343 | 🌐 Go | 📅 2026-10-15
+* <https://github.com/golang/go/wiki/WebAssembly> ⭐ 139,285 | 🐛 10,354 | 🌐 Go | 📅 2026-10-16
 * <https://github.com/dave/wasmgo> ⭐ 145 | 🐛 4 | 🌐 Go | 📅 2023-03-07
 * [Getting started into Go and WebAssembly](https://medium.com/@sendilkumarn/getting-started-into-go-and-webassembly-8491b133a616)
 * <https://tip.golang.org/pkg/syscall/js/>
 
 **Java & Kotlin**
 
-* <https://github.com/konsoletyper/teavm> ⭐ 3,128 | 🐛 217 | 🌐 Java | 📅 2026-10-12
-* <https://github.com/i-net-software/JWebAssembly> ⭐ 1,055 | 🐛 22 | 🌐 Java | 📅 2026-10-01
+* <https://github.com/konsoletyper/teavm> ⭐ 3,129 | 🐛 217 | 🌐 Java | 📅 2026-10-15
+* <https://github.com/i-net-software/JWebAssembly> ⭐ 1,056 | 🐛 22 | 🌐 Java | 📅 2026-10-01
 * <https://superkotlin.com/kotlin-and-webassembly/>
 
 **Rust**
@@ -184,4 +184,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._

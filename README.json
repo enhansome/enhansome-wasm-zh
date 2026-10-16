@@ -56,7 +56,7 @@
             "open_issues": 103,
             "owner": "WebAssembly",
             "repo": "spec",
-            "stars": 3463,
+            "stars": 3464,
             "topics": [
               "specification"
             ]
@@ -85,7 +85,7 @@
             "open_issues": 7,
             "owner": "3dgen",
             "repo": "cppwasm-book",
-            "stars": 1403,
+            "stars": 1401,
             "topics": [
               "c",
               "cpp",
@@ -112,7 +112,7 @@
             "open_issues": 7,
             "owner": "3dgen",
             "repo": "cppwasm-book",
-            "stars": 1403,
+            "stars": 1401,
             "topics": [
               "c",
               "cpp",
@@ -315,10 +315,10 @@
             "language": "WebAssembly",
             "license": "Apache-2.0",
             "last_commit": "2026-09-14T00:05:09Z",
-            "open_issues": 213,
+            "open_issues": 212,
             "owner": "AssemblyScript",
             "repo": "assemblyscript",
-            "stars": 18030,
+            "stars": 18032,
             "topics": [
               "assemblyscript",
               "compiler",
@@ -341,11 +341,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-15T16:48:16Z",
-            "open_issues": 10343,
+            "last_commit": "2026-10-16T15:57:33Z",
+            "open_issues": 10354,
             "owner": "golang",
             "repo": "go",
-            "stars": 139193,
+            "stars": 139285,
             "topics": [
               "go",
               "golang",
@@ -388,11 +388,11 @@
             "id": 13045763,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T18:56:00Z",
+            "last_commit": "2026-10-15T20:56:47Z",
             "open_issues": 217,
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3128,
+            "stars": 3129,
             "topics": [
               "aot",
               "java",
@@ -419,7 +419,7 @@
             "open_issues": 22,
             "owner": "i-net-software",
             "repo": "JWebAssembly",
-            "stars": 1055,
+            "stars": 1056,
             "topics": [
               "compiler",
               "java",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T16:54:34.694Z",
+    "last_updated": "2026-10-16T16:33:56.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "WebAssembly(wasm)资源精选",

@@ -16,10 +16,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-09T05:19:38Z",
-            "open_issues": 116,
+            "open_issues": 117,
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9649,
+            "stars": 9650,
             "topics": [
               "awesome",
               "awesome-list",
@@ -297,7 +297,7 @@
             "open_issues": 0,
             "owner": "dotnet",
             "repo": "blazor",
-            "stars": 9255,
+            "stars": 9254,
             "topics": []
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
@@ -314,11 +314,11 @@
             "id": 105138356,
             "language": "WebAssembly",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T00:05:09Z",
-            "open_issues": 213,
+            "last_commit": "2026-10-18T13:18:38Z",
+            "open_issues": 214,
             "owner": "AssemblyScript",
             "repo": "assemblyscript",
-            "stars": 18030,
+            "stars": 18031,
             "topics": [
               "assemblyscript",
               "compiler",
@@ -342,10 +342,10 @@
             "language": "Go",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-17T01:15:20Z",
-            "open_issues": 10372,
+            "open_issues": 10352,
             "owner": "golang",
             "repo": "go",
-            "stars": 139281,
+            "stars": 139309,
             "topics": [
               "go",
               "golang",
@@ -389,10 +389,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-16T19:01:35Z",
-            "open_issues": 218,
+            "open_issues": 221,
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3130,
+            "stars": 3132,
             "topics": [
               "aot",
               "java",
@@ -472,7 +472,7 @@
             "open_issues": 19,
             "owner": "appcypher",
             "repo": "awesome-wasm-langs",
-            "stars": 4451,
+            "stars": 4452,
             "topics": [
               "asmjs",
               "astro",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T15:28:23.638Z",
+    "last_updated": "2026-10-18T15:47:59.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "WebAssembly(wasm)资源精选",

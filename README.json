@@ -16,10 +16,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-09T05:19:38Z",
-            "open_issues": 135,
+            "open_issues": 139,
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9660,
+            "stars": 9663,
             "topics": [
               "awesome",
               "awesome-list",
@@ -318,7 +318,7 @@
             "open_issues": 213,
             "owner": "AssemblyScript",
             "repo": "assemblyscript",
-            "stars": 18035,
+            "stars": 18037,
             "topics": [
               "assemblyscript",
               "compiler",
@@ -341,11 +341,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-29T18:02:39Z",
-            "open_issues": 10490,
+            "last_commit": "2026-10-30T17:10:11Z",
+            "open_issues": 9854,
             "owner": "golang",
             "repo": "go",
-            "stars": 139499,
+            "stars": 139452,
             "topics": [
               "go",
               "golang",
@@ -389,10 +389,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-27T20:02:48Z",
-            "open_issues": 232,
+            "open_issues": 233,
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3140,
+            "stars": 3142,
             "topics": [
               "aot",
               "java",
@@ -472,7 +472,7 @@
             "open_issues": 21,
             "owner": "appcypher",
             "repo": "awesome-wasm-langs",
-            "stars": 4452,
+            "stars": 4453,
             "topics": [
               "asmjs",
               "astro",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T18:25:22.991Z",
+    "last_updated": "2026-10-30T17:58:33.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "WebAssembly(wasm)资源精选",

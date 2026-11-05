@@ -318,7 +318,7 @@
             "open_issues": 213,
             "owner": "AssemblyScript",
             "repo": "assemblyscript",
-            "stars": 18036,
+            "stars": 18037,
             "topics": [
               "assemblyscript",
               "compiler",
@@ -341,11 +341,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-04T18:49:08Z",
+            "last_commit": "2026-11-05T19:35:58Z",
             "open_issues": 9907,
             "owner": "golang",
             "repo": "go",
-            "stars": 139564,
+            "stars": 139616,
             "topics": [
               "go",
               "golang",
@@ -392,7 +392,7 @@
             "open_issues": 212,
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3144,
+            "stars": 3145,
             "topics": [
               "aot",
               "java",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T19:42:09.001Z",
+    "last_updated": "2026-11-05T19:53:24.266Z",
     "original_repository_info": {
       "archived": false,
       "description": "WebAssembly(wasm)资源精选",

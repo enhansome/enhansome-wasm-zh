@@ -16,10 +16,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-09T05:19:38Z",
-            "open_issues": 142,
+            "open_issues": 144,
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9672,
+            "stars": 9673,
             "topics": [
               "awesome",
               "awesome-list",
@@ -56,7 +56,7 @@
             "open_issues": 106,
             "owner": "WebAssembly",
             "repo": "spec",
-            "stars": 3468,
+            "stars": 3469,
             "topics": [
               "specification"
             ]
@@ -85,7 +85,7 @@
             "open_issues": 7,
             "owner": "3dgen",
             "repo": "cppwasm-book",
-            "stars": 1402,
+            "stars": 1401,
             "topics": [
               "c",
               "cpp",
@@ -112,7 +112,7 @@
             "open_issues": 7,
             "owner": "3dgen",
             "repo": "cppwasm-book",
-            "stars": 1402,
+            "stars": 1401,
             "topics": [
               "c",
               "cpp",
@@ -315,10 +315,10 @@
             "language": "WebAssembly",
             "license": "Apache-2.0",
             "last_commit": "2026-10-18T13:18:38Z",
-            "open_issues": 220,
+            "open_issues": 217,
             "owner": "AssemblyScript",
             "repo": "assemblyscript",
-            "stars": 18036,
+            "stars": 18039,
             "topics": [
               "assemblyscript",
               "compiler",
@@ -341,11 +341,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-07T15:28:23Z",
-            "open_issues": 9917,
+            "last_commit": "2026-11-08T14:56:52Z",
+            "open_issues": 9928,
             "owner": "golang",
             "repo": "go",
-            "stars": 139774,
+            "stars": 139788,
             "topics": [
               "go",
               "golang",
@@ -388,8 +388,8 @@
             "id": 13045763,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T17:10:32Z",
-            "open_issues": 207,
+            "last_commit": "2026-11-08T15:54:33Z",
+            "open_issues": 198,
             "owner": "konsoletyper",
             "repo": "teavm",
             "stars": 3145,
@@ -419,7 +419,7 @@
             "open_issues": 22,
             "owner": "i-net-software",
             "repo": "JWebAssembly",
-            "stars": 1056,
+            "stars": 1057,
             "topics": [
               "compiler",
               "java",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T17:43:39.428Z",
+    "last_updated": "2026-11-08T17:53:53.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "WebAssembly(wasm)资源精选",
@@ -562,7 +562,7 @@
       "open_issues": 2,
       "owner": "wasmlang",
       "repo": "awesome-wasm-zh",
-      "stars": 1035,
+      "stars": 1034,
       "topics": [
         "awesome",
         "awesome-list",

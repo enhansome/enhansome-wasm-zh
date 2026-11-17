@@ -53,7 +53,7 @@
             "language": "WebAssembly",
             "license": "NOASSERTION",
             "last_commit": "2026-11-16T09:55:09Z",
-            "open_issues": 113,
+            "open_issues": 114,
             "owner": "WebAssembly",
             "repo": "spec",
             "stars": 3472,
@@ -341,11 +341,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-16T21:13:20Z",
-            "open_issues": 9910,
+            "last_commit": "2026-11-17T20:35:21Z",
+            "open_issues": 9920,
             "owner": "golang",
             "repo": "go",
-            "stars": 139964,
+            "stars": 140191,
             "topics": [
               "go",
               "golang",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T21:56:57.362Z",
+    "last_updated": "2026-11-17T20:49:43.198Z",
     "original_repository_info": {
       "archived": false,
       "description": "WebAssembly(wasm)资源精选",

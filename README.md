@@ -39,7 +39,7 @@
 
 ## 官方参考
 
-1. <https://github.com/WebAssembly/spec/issues> ⭐ 3,472 | 🐛 113 | 🌐 WebAssembly | 📅 2026-11-16
+1. <https://github.com/WebAssembly/spec/issues> ⭐ 3,472 | 🐛 114 | 🌐 WebAssembly | 📅 2026-11-16
 2. <https://webassembly.org>
 3. <https://www.w3.org/TR/wasm-core-1>
 4. <https://www.w3.org/TR/wasm-js-api-1>
@@ -117,7 +117,7 @@
 
 **Go**
 
-* <https://github.com/golang/go/wiki/WebAssembly> ⭐ 139,964 | 🐛 9,910 | 🌐 Go | 📅 2026-11-16
+* <https://github.com/golang/go/wiki/WebAssembly> ⭐ 140,191 | 🐛 9,920 | 🌐 Go | 📅 2026-11-17
 * <https://github.com/dave/wasmgo> ⭐ 145 | 🐛 4 | 🌐 Go | 📅 2023-03-07
 * [Getting started into Go and WebAssembly](https://medium.com/@sendilkumarn/getting-started-into-go-and-webassembly-8491b133a616)
 * <https://tip.golang.org/pkg/syscall/js/>
@@ -184,4 +184,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._

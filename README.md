@@ -33,13 +33,13 @@
 
 ## 其它awesome
 
-* <https://github.com/mbasso/awesome-wasm> ⭐ 9,680 | 🐛 149 | 📅 2026-10-09
+* <https://github.com/mbasso/awesome-wasm> ⭐ 9,681 | 🐛 150 | 📅 2026-10-09
 
 ***
 
 ## 官方参考
 
-1. <https://github.com/WebAssembly/spec/issues> ⭐ 3,472 | 🐛 114 | 🌐 WebAssembly | 📅 2026-11-16
+1. <https://github.com/WebAssembly/spec/issues> ⭐ 3,474 | 🐛 115 | 🌐 WebAssembly | 📅 2026-11-16
 2. <https://webassembly.org>
 3. <https://www.w3.org/TR/wasm-core-1>
 4. <https://www.w3.org/TR/wasm-js-api-1>
@@ -86,7 +86,7 @@
 
 **C/C++**
 
-* <https://github.com/AndrewScheidecker/WAVM> ⭐ 2,788 | 🐛 29 | 🌐 C++ | 📅 2026-04-05
+* <https://github.com/AndrewScheidecker/WAVM> ⭐ 2,789 | 🐛 29 | 🌐 C++ | 📅 2026-04-05
 * <https://github.com/LuisHsu/WasmVM> ⭐ 4 | 🐛 0 | 🌐 C++ | 📅 2019-09-02
 * <https://github.com/rianhunter/wasmjit>
 
@@ -107,7 +107,7 @@
 
 **AssemblyScript**
 
-* <https://github.com/AssemblyScript/assemblyscript> ⭐ 18,044 | 🐛 220 | 🌐 WebAssembly | 📅 2026-10-18
+* <https://github.com/AssemblyScript/assemblyscript> ⭐ 18,046 | 🐛 220 | 🌐 WebAssembly | 📅 2026-10-18
 
 **C/C++/D**
 
@@ -117,14 +117,14 @@
 
 **Go**
 
-* <https://github.com/golang/go/wiki/WebAssembly> ⭐ 140,191 | 🐛 9,920 | 🌐 Go | 📅 2026-11-17
+* <https://github.com/golang/go/wiki/WebAssembly> ⭐ 140,079 | 🐛 9,909 | 🌐 Go | 📅 2026-11-18
 * <https://github.com/dave/wasmgo> ⭐ 145 | 🐛 4 | 🌐 Go | 📅 2023-03-07
 * [Getting started into Go and WebAssembly](https://medium.com/@sendilkumarn/getting-started-into-go-and-webassembly-8491b133a616)
 * <https://tip.golang.org/pkg/syscall/js/>
 
 **Java & Kotlin**
 
-* <https://github.com/konsoletyper/teavm> ⭐ 3,147 | 🐛 192 | 🌐 Java | 📅 2026-11-16
+* <https://github.com/konsoletyper/teavm> ⭐ 3,147 | 🐛 192 | 🌐 Java | 📅 2026-11-18
 * <https://github.com/i-net-software/JWebAssembly> ⭐ 1,057 | 🐛 22 | 🌐 Java | 📅 2026-10-01
 * <https://superkotlin.com/kotlin-and-webassembly/>
 
@@ -184,4 +184,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._

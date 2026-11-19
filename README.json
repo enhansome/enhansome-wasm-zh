@@ -19,7 +19,7 @@
             "open_issues": 150,
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9681,
+            "stars": 9682,
             "topics": [
               "awesome",
               "awesome-list",
@@ -52,8 +52,8 @@
             "id": 40598815,
             "language": "WebAssembly",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T09:55:09Z",
-            "open_issues": 115,
+            "last_commit": "2026-11-19T02:30:08Z",
+            "open_issues": 116,
             "owner": "WebAssembly",
             "repo": "spec",
             "stars": 3474,
@@ -208,7 +208,7 @@
             "open_issues": 38,
             "owner": "go-interpreter",
             "repo": "wagon",
-            "stars": 899,
+            "stars": 898,
             "topics": [
               "go",
               "golang",
@@ -341,11 +341,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-18T20:20:31Z",
-            "open_issues": 9909,
+            "last_commit": "2026-11-19T19:36:29Z",
+            "open_issues": 9929,
             "owner": "golang",
             "repo": "go",
-            "stars": 140079,
+            "stars": 140095,
             "topics": [
               "go",
               "golang",
@@ -388,11 +388,11 @@
             "id": 13045763,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T20:03:19Z",
-            "open_issues": 192,
+            "last_commit": "2026-11-19T18:52:50Z",
+            "open_issues": 191,
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3147,
+            "stars": 3146,
             "topics": [
               "aot",
               "java",
@@ -419,7 +419,7 @@
             "open_issues": 22,
             "owner": "i-net-software",
             "repo": "JWebAssembly",
-            "stars": 1057,
+            "stars": 1056,
             "topics": [
               "compiler",
               "java",
@@ -446,7 +446,7 @@
             "open_issues": 141,
             "owner": "rustwasm",
             "repo": "book",
-            "stars": 1827,
+            "stars": 1826,
             "topics": [
               "mdbook",
               "rust",
@@ -472,7 +472,7 @@
             "open_issues": 21,
             "owner": "appcypher",
             "repo": "awesome-wasm-langs",
-            "stars": 4456,
+            "stars": 4457,
             "topics": [
               "asmjs",
               "astro",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T20:25:38.672Z",
+    "last_updated": "2026-11-19T20:29:04.890Z",
     "original_repository_info": {
       "archived": false,
       "description": "WebAssembly(wasm)资源精选",

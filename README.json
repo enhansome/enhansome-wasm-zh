@@ -16,10 +16,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-09T05:19:38Z",
-            "open_issues": 150,
+            "open_issues": 154,
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9682,
+            "stars": 9683,
             "topics": [
               "awesome",
               "awesome-list",
@@ -52,8 +52,8 @@
             "id": 40598815,
             "language": "WebAssembly",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T02:30:08Z",
-            "open_issues": 116,
+            "last_commit": "2026-11-20T18:30:32Z",
+            "open_issues": 117,
             "owner": "WebAssembly",
             "repo": "spec",
             "stars": 3474,
@@ -85,7 +85,7 @@
             "open_issues": 7,
             "owner": "3dgen",
             "repo": "cppwasm-book",
-            "stars": 1401,
+            "stars": 1400,
             "topics": [
               "c",
               "cpp",
@@ -112,7 +112,7 @@
             "open_issues": 7,
             "owner": "3dgen",
             "repo": "cppwasm-book",
-            "stars": 1401,
+            "stars": 1400,
             "topics": [
               "c",
               "cpp",
@@ -318,7 +318,7 @@
             "open_issues": 220,
             "owner": "AssemblyScript",
             "repo": "assemblyscript",
-            "stars": 18046,
+            "stars": 18044,
             "topics": [
               "assemblyscript",
               "compiler",
@@ -341,11 +341,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-19T19:36:29Z",
-            "open_issues": 9929,
+            "last_commit": "2026-11-20T19:54:42Z",
+            "open_issues": 9907,
             "owner": "golang",
             "repo": "go",
-            "stars": 140095,
+            "stars": 140126,
             "topics": [
               "go",
               "golang",
@@ -388,11 +388,11 @@
             "id": 13045763,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T18:52:50Z",
-            "open_issues": 191,
+            "last_commit": "2026-11-20T18:26:32Z",
+            "open_issues": 190,
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3146,
+            "stars": 3147,
             "topics": [
               "aot",
               "java",
@@ -446,7 +446,7 @@
             "open_issues": 141,
             "owner": "rustwasm",
             "repo": "book",
-            "stars": 1826,
+            "stars": 1825,
             "topics": [
               "mdbook",
               "rust",
@@ -472,7 +472,7 @@
             "open_issues": 21,
             "owner": "appcypher",
             "repo": "awesome-wasm-langs",
-            "stars": 4457,
+            "stars": 4456,
             "topics": [
               "asmjs",
               "astro",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T20:29:04.890Z",
+    "last_updated": "2026-11-20T20:05:20.246Z",
     "original_repository_info": {
       "archived": false,
       "description": "WebAssembly(wasm)资源精选",

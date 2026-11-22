@@ -19,7 +19,7 @@
             "open_issues": 155,
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9683,
+            "stars": 9684,
             "topics": [
               "awesome",
               "awesome-list",
@@ -56,7 +56,7 @@
             "open_issues": 111,
             "owner": "WebAssembly",
             "repo": "spec",
-            "stars": 3476,
+            "stars": 3477,
             "topics": [
               "specification"
             ]
@@ -297,7 +297,7 @@
             "open_issues": 0,
             "owner": "dotnet",
             "repo": "blazor",
-            "stars": 9242,
+            "stars": 9241,
             "topics": []
           },
           "first_seen": "2026-08-28T22:15:18.556Z"
@@ -341,11 +341,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-21T18:15:05Z",
-            "open_issues": 9917,
+            "last_commit": "2026-11-22T19:00:42Z",
+            "open_issues": 9934,
             "owner": "golang",
             "repo": "go",
-            "stars": 140123,
+            "stars": 140173,
             "topics": [
               "go",
               "golang",
@@ -388,11 +388,11 @@
             "id": 13045763,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T16:15:39Z",
-            "open_issues": 188,
+            "last_commit": "2026-11-22T17:27:15Z",
+            "open_issues": 186,
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3147,
+            "stars": 3148,
             "topics": [
               "aot",
               "java",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T19:08:18.095Z",
+    "last_updated": "2026-11-22T19:30:42.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "WebAssembly(wasm)资源精选",
